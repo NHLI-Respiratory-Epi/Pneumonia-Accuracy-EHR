@@ -1,0 +1,6 @@
+"snomedctconceptid","medcodeid","cleansedreadcode","snomedctdescriptionid","term","chest_x_ray","search_stage","requested","abnormal"
+"707307002","1677171000000111","6831000","3029822016","tuberculosis screening chest x-ray abnormal",1,1,1,1
+"707307002","1677181000000113","6831011","3029822016","tb (tuberculosis) screening chest x-ray abnormal",1,1,1,1
+"1748561000006106","1748561000006110","","1748561000006110","tuberculosis screening chest x-ray abnormal",1,1,1,1
+"168734001","261967017","5353.00","261967017","standard chest x-ray abnormal",1,1,1,1
+"717978008","7765391000006111","","3310766016","bilateral lung opacities on chest x-ray",1,1,1,1

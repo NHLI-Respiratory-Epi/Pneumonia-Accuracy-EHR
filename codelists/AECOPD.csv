@@ -1,0 +1,21 @@
+"medcodeid","observations","originalreadcode","cleansedreadcode","term","snomedctconceptid","snomedctdescriptionid","emiscodecategoryid","aecopd","aecopd_count"
+"1173471000000110",1000,"8BP8","8BP8.00","Antibiotic therapy for acute pulmonary exacerbation","525691000000103",1173471000000110,"Conditions, operations and procedures",1,0
+"1882421000006113",2000,"EMISNQ1C1","","1 COPD exacerbation in past year","1882421000006109",1882421000006113,"Health management, screening and monitoring",0,1
+"1882431000006111",1000,"EMISNQ3C1","","3+ COPD exacerbations in past year","1882431000006107",1882431000006111,"Health management, screening and monitoring",0,1
+"1882441000006118",1000,"EMISNQ2C1","","2 COPD exacerbations in past year","1882441000006102",1882441000006118,"Health management, screening and monitoring",0,1
+"1882451000006116",5000,"EMISNQNO109","","No COPD exacerbations in past year","1882451000006100",1882451000006116,"Health management, screening and monitoring",0,1
+"2010061000006113",7000,"EMISNQAC878","","Acute non-infective exacerbation of chronic obstructive pulmonary disease","847091000000104",2196421000000114,"Conditions, operations and procedures",1,0
+"2160051010",30000,"8H2R","8H2R.00","Emergency hospital admission for chronic obstructive pulmonary disease","408501008",3082901016,"Referral",1,0
+"301453013",1000000,"H3122","H312200","Acute exacerbation of chronic obstructive airways disease","195951007",301453013,"Conditions, operations and procedures",1,0
+"424365019",40000,"ESCTAC8","","Acute infective exacerbation of chronic obstructive airways disease","285381006",424365019,"Conditions, operations and procedures",1,0
+"4781421000006111",500,"^ESCTAC478142","","Acute exacerbation of COPD","195951007",3012683010,"Conditions, operations and procedures",1,0
+"4781431000006114",300,"^ESCTAC478143","","Acute exacerbation of chronic obstructive pulmonary disease","195951007",3012710012,"Conditions, operations and procedures",1,0
+"553211000006119",100000,"H3y1","H3y1.00","Chron obstruct pulmonary dis wth acute exacerbation, unspec","195951007",301453013,"Conditions, operations and procedures",1,0
+"6763251000006114",3,"^ESCTEM676325","","Emergency hospital admission for COPD (chronic obstructive pulmonary disease)","408501008",3082978011,"Referral",1,0
+"7970171000006119",8,"^ESCTAC797017","","Acute exacerbation of chronic obstructive airways disease with asthma","1751000119100",2967380018,"Conditions, operations and procedures",1,0
+"8287171000006115",400,"^ESCTAC828717","","Acute non-infective exacerbation of COPD (chronic obstructive pulmonary disease)","847091000000104",2196431000000111,"Conditions, operations and procedures",1,0
+"8437811000006110",1000,"^ESCTNU843781","","Number of hospital admissions due to COPD (chronic obstructive pulmonary disease) in past year","1065151000000105",2675601000000117,"Unset",0,1
+"977891000006112",30000,"66Yd","66Yd.00","Chronic obstructive pulmonary disease accident and emergency attendance since last visit","413845009",2533538014,"Health management, screening and monitoring",0,1
+"977901000006111",30000,"66Ye","66Ye.00","Emergency chronic obstructive pulmonary disease admission since last appointment","414087000",2533539018,"Health management, screening and monitoring",0,1
+"977911000006114",2000000,"66Yf","66Yf.00","Number of chronic obstructive pulmonary disease exacerbations in past year","723245007",3335171010,"Health management, screening and monitoring",0,1
+"998281000006115",6000,"66Yi","66Yi.00","Multiple chronic obstructive pulmonary disease emergency hospital admissions","198901000000105",300201000000114,"Health management, screening and monitoring",0,1

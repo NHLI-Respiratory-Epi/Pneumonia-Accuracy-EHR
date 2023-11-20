@@ -1,0 +1,93 @@
+"medcodeid","cleansedreadcode","snomedctconceptid","snomedctdescriptionid","emiscodecategoryid","term","fev1","fev1_predicted","fev1_percent_pred","fvc","fvc_predicted","fvc_percent_pred","fev1_fvc_ratio","fev1_fvc_ratio_predicted","fev1_fvc_ratio_percent_pred","bronchdil","generalspirom","spirometry"
+"454110011","339P.00","310520004","454110011",3,"expected fev1",NA,1,NA,NA,NA,NA,NA,NA,NA,3,NA,1
+"453937018","339N.00","310360002","453937018",3,"expected fev1/fvc ratio",NA,NA,NA,NA,NA,NA,NA,1,NA,3,NA,1
+"5999141000006112","","310360002","2972684011",3,"expected forced expiratory volume in one second/forced vital capacity ratio",NA,NA,NA,NA,NA,NA,NA,1,NA,3,NA,1
+"6000931000006116","","310520004","454109018",3,"expected forced expired volume in 1 second",NA,1,NA,NA,NA,NA,NA,NA,NA,3,NA,1
+"454111010","339Q.00","310521000","454111010",3,"expected fvc",NA,NA,NA,NA,1,NA,NA,NA,NA,3,NA,1
+"4588671000006119","","165041004","1221361018",3,"fev - forced expired volume",1,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,1
+"3463571000006118","","59328004","1231944015",3,"fev1 - forced expired volume in 1 second",1,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,1
+"1821581000006113","","1821581000006109","1821581000006113",3,"fev1 60-80% of predicted",NA,NA,1,NA,NA,NA,NA,NA,NA,3,NA,1
+"1821601000006115","","1821601000006104","1821601000006115",3,"fev1 < 60% of predicted",NA,NA,1,NA,NA,NA,NA,NA,NA,3,NA,1
+"1821541000006119","","1821541000006103","1821541000006119",3,"fev1 > 80% of predicted",NA,NA,1,NA,NA,NA,NA,NA,NA,3,NA,1
+"1761631000006119","","1761631000006103","1761631000006119",3,"fev1 after bronchial provocation test",1,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,1
+"1780220014","339b.00","401013003","1780220014",3,"fev1 after bronchodilation",1,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,1
+"1865501000006114","3397200","862931000000108","2231361000000111",32,"fev1 after change of bronchodilator",1,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,1
+"1761661000006111","","1761661000006107","1761661000006111",3,"fev1 before bronchial provocation test",1,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,1
+"1780219015","339a.00","401012008","1780219015",3,"fev1 before bronchodilation",1,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,1
+"1780223011","339f.00","401016006","1780223011",3,"fev1 post steroids",1,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,1
+"1780316012","339e.00","401115007","1780316012",3,"fev1 pre steroids",1,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,1
+"1821561000006115","","1821561000006104","1821561000006115",3,"fev1 variability 20-30%",NA,NA,1,NA,NA,NA,NA,NA,NA,3,NA,1
+"1821551000006117","","1821551000006101","1821551000006117",3,"fev1 variability < 20%",NA,NA,1,NA,NA,NA,NA,NA,NA,3,NA,1
+"1821591000006111","","1821591000006107","1821591000006111",3,"fev1 variability > 30%",NA,NA,1,NA,NA,NA,NA,NA,NA,3,NA,1
+"458838014","339U.00","314472003","458838014",3,"fev1/fvc < 70% of predicted",NA,NA,NA,NA,NA,NA,NA,NA,1,3,NA,1
+"458839018","339T.00","314473008","458839018",3,"fev1/fvc > 70% of predicted",NA,NA,NA,NA,NA,NA,NA,NA,1,3,NA,1
+"457080011","339R.00","313222007","457080011",3,"fev1/fvc percent",NA,NA,NA,NA,NA,NA,1,NA,NA,3,NA,1
+"1224805016","339M.00","251944000","1224805016",3,"fev1/fvc ratio",NA,NA,NA,NA,NA,NA,1,NA,NA,3,NA,1
+"855141000006110","","855141000006106","855141000006110",3,"fev1/fvc ratio",NA,NA,NA,NA,NA,NA,1,NA,NA,3,NA,1
+"256690013","3399.00","165044007","256690013",3,"fev1/fvc ratio abnormal",NA,NA,NA,NA,NA,NA,1,NA,NA,3,NA,1
+"2163855015","339m.00","407603001","2163855015",3,"fev1/fvc ratio after bronchodilator",NA,NA,NA,NA,NA,NA,1,NA,NA,2,NA,1
+"2163854016","339l.00","407602006","2163854016",3,"fev1/fvc ratio before bronchodilator",NA,NA,NA,NA,NA,NA,1,NA,NA,1,NA,1
+"256689016","3398.00","165043001","256689016",3,"fev1/fvc ratio normal",NA,NA,NA,NA,NA,NA,1,NA,NA,3,NA,1
+"2163853010","339k.00","407601004","2163853010",3,"fev1/fvc ratio post steroids",NA,NA,NA,NA,NA,NA,1,NA,NA,2,NA,1
+"2163852017","339j.00","407599001","2163852017",3,"fev1/fvc ratio pre steroids",NA,NA,NA,NA,NA,NA,1,NA,NA,1,NA,1
+"1875691000006114","","1875691000006105","1875691000006114",3,"fev1/svc percent",NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,1
+"474781000000116","339r.00","251943006","375283017",3,"fev1/vc percent",NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,1
+"5308471000006114","","251943006","1224802018",3,"fev1/vc ratio",NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,1
+"4588721000006111","","165042006","2619112018",3,"forced expiratory volume (fev) normal",1,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,1
+"764471000006117","3397.00","165041004","256687019",3,"forced expiratory volume - fev",1,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,1
+"6749351000006110","","407603001","2159204013",3,"forced expiratory volume 1 (fev1)/ forced vital capacity (fvc) ratio after bronchodilator",NA,NA,NA,NA,NA,NA,1,NA,NA,2,NA,1
+"951231000006116","","951231000006100","951231000006116",3,"forced expiratory volume 1 - fev1",1,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,1
+"4588781000006110","","165044007","2619114017",3,"forced expiratory volume in one second (fev1)/forced vital capacity (fvc) ratio abnormal",NA,NA,NA,NA,NA,NA,1,NA,NA,3,NA,1
+"4588751000006119","","165043001","2619113011",3,"forced expiratory volume in one second (fev1)/forced vital capacity (fvc) ratio normal",NA,NA,NA,NA,NA,NA,1,NA,NA,3,NA,1
+"6046421000006115","","314473008","2972337016",3,"forced expiratory volume in one second/forced vital capacity > 70% of predicted",NA,NA,NA,NA,NA,NA,NA,NA,1,3,NA,1
+"6046431000006117","","314473008","3037391013",3,"forced expiratory volume in one second/forced vital capacity greater than 70% of predicted",NA,NA,NA,NA,NA,NA,NA,NA,1,3,NA,1
+"6046401000006113","","314472003","2989002019",3,"forced expiratory volume in one second/forced vital capacity less than 70% of predicted",NA,NA,NA,NA,NA,NA,NA,NA,1,3,NA,1
+"6027621000006118","","313222007","2972372018",3,"forced expiratory volume in one second/forced vital capacity percent",NA,NA,NA,NA,NA,NA,1,NA,NA,3,NA,1
+"4588791000006113","","165044007","2913989014",3,"forced expiratory volume in one second/forced vital capacity ratio abnormal",NA,NA,NA,NA,NA,NA,1,NA,NA,3,NA,1
+"6749371000006117","","407603001","2913594017",3,"forced expiratory volume in one second/forced vital capacity ratio after bronchodilator",NA,NA,NA,NA,NA,NA,1,NA,NA,2,NA,1
+"6749341000006113","","407602006","2972438010",3,"forced expiratory volume in one second/forced vital capacity ratio before bronchodilator",NA,NA,NA,NA,NA,NA,1,NA,NA,1,NA,1
+"4588761000006117","","165043001","2913844014",3,"forced expiratory volume in one second/forced vital capacity ratio normal",NA,NA,NA,NA,NA,NA,1,NA,NA,3,NA,1
+"6749311000006114","","407601004","2972608012",3,"forced expiratory volume in one second/forced vital capacity ratio post steroids",NA,NA,NA,NA,NA,NA,1,NA,NA,2,NA,1
+"6749281000006112","","407599001","2972340016",3,"forced expiratory volume in one second/forced vital capacity ratio pre steroids",NA,NA,NA,NA,NA,NA,1,NA,NA,1,NA,1
+"4588731000006114","","165042006","2915219013",3,"forced expiratory volume normal",1,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,1
+"764481000006119","339O.00","59328004","498401010",3,"forced expired volume in 1 second",1,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,1
+"5308501000006119","","251944000","1224804017",3,"forced expired volume in 1 second : forced vital capacity ratio",NA,NA,NA,NA,NA,NA,1,NA,NA,3,NA,1
+"6647421000006110","","401013003","1787425016",3,"forced expired volume in 1 second after bronchodilation",1,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,1
+"6647401000006117","","401012008","1787424017",3,"forced expired volume in 1 second before bronchodilation",1,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,1
+"6647481000006114","","401016006","1787426015",3,"forced expired volume in 1 second post steroids",1,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,1
+"6648701000006114","","401115007","1787444011",3,"forced expired volume in 1 second pre steroids",1,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,1
+"1141751000000110","339O000","445466003","2872069016",3,"forced expired volume in 1 second reversibility",1,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,1
+"5308491000006110","","251944000","375285012",3,"forced expired volume in one sec/forced vital capacity ratio",NA,NA,NA,NA,NA,NA,1,NA,NA,3,NA,1
+"5308481000006112","","251944000","375284011",3,"forced expired volume in one second/forced vital capacity ratio",NA,NA,NA,NA,NA,NA,1,NA,NA,3,NA,1
+"375283017","339O100","251943006","375283017",32,"forced expired volume in one second/vital capacity ratio",NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,1
+"6748961000006118","","407561008","2159162019",3,"forced vital capacity (fvc) after bronchodilation",NA,NA,NA,1,NA,NA,NA,NA,NA,2,NA,1
+"6749131000006117","","407576000","2159177010",3,"forced vital capacity (fvc)/expected forced vital capacity (fvc) percent",NA,NA,NA,NA,NA,1,NA,NA,NA,3,NA,1
+"764741000006116","3396.00","50834005","84715019",3,"forced vital capacity - fvc",NA,NA,NA,1,NA,NA,NA,NA,NA,3,NA,1
+"7256221000006111","","441857000","1642711000000118",3,"fvc (forced vital capacity) before bronchodilation",NA,NA,NA,1,NA,NA,NA,NA,NA,1,NA,1
+"3323341000006118","","50834005","1230911018",3,"fvc - forced vital capacity",NA,NA,NA,1,NA,NA,NA,NA,NA,3,NA,1
+"256686011","3396100","165040003","256686011",3,"fvc - forced vital capacity abnormal",NA,NA,NA,1,NA,NA,NA,NA,NA,3,NA,1
+"256685010","3396000","165039000","256685010",3,"fvc - forced vital capacity normal",NA,NA,NA,1,NA,NA,NA,NA,NA,3,NA,1
+"1761641000006112","","1761641000006108","1761641000006112",3,"fvc after bronchial provocation test",NA,NA,NA,1,NA,NA,NA,NA,NA,2,NA,1
+"2163847010","339h.00","407561008","2163847010",3,"fvc after bronchodilation",NA,NA,NA,1,NA,NA,NA,NA,NA,2,NA,1
+"1865491000006118","3396300","862831000000104","2231101000000110",32,"fvc after change of bronchodilator",NA,NA,NA,1,NA,NA,NA,NA,NA,2,NA,1
+"1761671000006116","","1761671000006100","1761671000006116",3,"fvc before bronchial provocation test",NA,NA,NA,1,NA,NA,NA,NA,NA,1,NA,1
+"2163849013","339i.00","407576000","2163849013",3,"fvc/expected fvc percent",NA,NA,NA,NA,NA,1,NA,NA,NA,3,NA,1
+"457081010","339S.00","313223002","457081010",3,"percent predicted fev1",NA,NA,1,NA,NA,NA,NA,NA,NA,3,NA,1
+"6027641000006113","","313223002","2914358011",3,"percent predicted forced expired volume in one second",NA,NA,1,NA,NA,NA,NA,NA,NA,3,NA,1
+"1900761000006115","339h100","903601000000107","2323841000000110",32,"percentage of predicted fvc after bronchodilation",NA,NA,NA,NA,NA,1,NA,NA,NA,2,NA,1
+"7337051000006118","","447254005","1711691000000111",3,"percentage predicted fev1 (forced expiratory volume in 1 second) after bronchodilation",NA,NA,1,NA,NA,NA,NA,NA,NA,2,NA,1
+"1752221000006118","339S000","447254005","2884301017",3,"percentage predicted fev1 after bronchodilation",NA,NA,1,NA,NA,NA,NA,NA,NA,2,NA,1
+"1771021000006117","","1771021000006101","1771021000006117",3,"percentage predicted fev1 after exercise",NA,NA,1,NA,NA,NA,NA,NA,NA,3,NA,1
+"1731151000000115","745D400","767906009","3680876011",32,"post bronchodilator spirometry",NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,1
+"2533652017","8HRC.00","415261001","2533652017",40,"referral for spirometry",NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,1
+"135511000006112","5882.00","127783003","1070016",41,"spirometry",NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,1
+"1070016","745C100","127783003","1070016",32,"spirometry",NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,1
+"317271000000119","8BR0.00","206251000000103","317271000000119",32,"spirometry indicated",NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,1
+"135521000006116","","135521000006100","135521000006116",1,"spirometry requested",NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,1
+"459417016","33G..00","314979004","459417016",3,"spirometry reversibility",1,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,1
+"459418014","33G0.00","314980001","459418014",3,"spirometry reversibility negative",1,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,1
+"459419018","33G1.00","314981002","459419018",3,"spirometry reversibility positive",1,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,1
+"6052331000006110","","314979004","1490668019",3,"spirometry reversibility test",1,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,1
+"2533638019","8I2M.00","415571003","2533638019",32,"spirometry reversibility testing contraindicated",NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1
+"970821000006111","","970821000006107","970821000006111",32,"spirometry reversibility testing contraindicated",NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1
+"265362014","68M..00","171255006","265362014",1,"spirometry screening",NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,1

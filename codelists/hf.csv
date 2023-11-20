@@ -1,0 +1,57 @@
+"medcodeid","cleansedreadcode","snomedctconceptid","snomedctdescriptionid","emiscodecategoryid","term","hf"
+"905391000006119","","905391000006103","905391000006119",12,"[rfc] cardiac failure",1
+"18472010","G580000","10633002","18472010",32,"acute congestive heart failure",1
+"94251011","G582.00","56675007","94251011",32,"acute heart failure",1
+"12490061000006118","","416683003","2549208013",40,"admit heart failure emergency",1
+"2549208013","8H2S.00","416683003","3082850014",40,"admit heart failure emergency",1
+"139482012","G58..11","84114007","139482012",32,"cardiac failure",1
+"223981000000118","G58z.12","84114007","139482012",32,"cardiac failure nos",1
+"451426015","8B29.00","308118002","451426015",32,"cardiac failure therapy",1
+"3182551000006115","","42343007","493288018",32,"ccf - congestive cardiac failure",1
+"3182561000006118","","42343007","493289014",32,"chf - congestive heart failure",1
+"147247018","G580100","88805009","147247018",32,"chronic congestive heart failure",1
+"300180019","G580300","195112003","300180019",32,"compensated cardiac failure",1
+"3182541000006117","","42343007","493287011",32,"congestive cardiac failure",1
+"493287011","G580.11","42343007","70653017",32,"congestive cardiac failure",1
+"70653017","G580.00","42343007","70653017",32,"congestive heart failure",1
+"2675255018","G580400","426611007","2675255018",32,"congestive heart failure due to valvular disease",1
+"216184014","662T.00","134378009","216184014",1,"congestive heart failure monitoring",1
+"11998611000006112","","763008007","3637539017",3,"congestive heart failure, hypertension, age 75 years or older, diabetes mellitus and previous stroke or transient ischaemic attack score",1
+"11998621000006116","","763008007","3637540015",3,"congestive heart failure, hypertension, age 75 years or older, diabetes mellitus and previous stroke or transient ischemic attack score",1
+"300179017","G580200","195111005","300179017",32,"decompensated cardiac failure",1
+"6978012","G5yyC00","3545003","6978012",32,"diastolic dysfunction",1
+"939571000006115","","939571000006104","939571000006115",32,"diastolic dysfunction",1
+"2159198010","585g.00","407597004","2159198010",41,"echocardiogram shows left ventricular diastolic dysfunction",1
+"1747691000006119","","1747691000006103","1747691000006119",1,"emergency heart failure admission since last appointment",1
+"6895651000006113","","416683003","6895651000006113",40,"emergency hospital admission for heart failure",1
+"1746171000000119","8CMK.00","781051000000108","1746171000000119",32,"has heart failure management plan",1
+"139475013","G58..00","84114007","139475013",32,"heart failure",1
+"404741000000119","662p.00","247361000000100","404741000000119",1,"heart failure 6 month review",1
+"1484918019","662W.00","390885007","1484918019",1,"heart failure annual review",1
+"350484012","SP11111","233924009","350484012",32,"heart failure as a complication of care",1
+"1488804017","1O1..00","395105005","1488804017",27,"heart failure confirmed",1
+"1484917012","8HBE.00","390884006","1484917012",40,"heart failure follow-up",1
+"1856381000006114","","1856381000006105","1856381000006114",37,"heart failure monitoring default",1
+"1856361000006116","","1856361000006100","1856361000006116",37,"heart failure monitoring in primary care",1
+"1856371000006111","","1856371000006107","1856371000006111",37,"heart failure monitoring in secondary care",1
+"395772015","G58z.00","84114007","139475013",32,"heart failure nos",1
+"308261000000111","9Or0.00","202231000000106","308261000000111",37,"heart failure review completed",1
+"1647701000000118","G583.00","446221000","2883808011",32,"heart failure with normal ejection fraction",1
+"7321121000006119","","446221000","3496968011",32,"heart failure with preserved ejection fraction",1
+"2227501000000110","G583.12","446221000","2227501000000110",32,"heart failure with preserved ejection fraction",1
+"3868341000006118","","84114007","1234906013",32,"hf - heart failure",1
+"1661371000000112","G583.11","446221000","1713091000000115",32,"hfnef - heart failure with normal ejection fraction",1
+"741701000006114","G232.00","194779001","299672017",32,"hypertensive heart&renal dis wth (congestive) heart failure",1
+"3886041000006118","","85232009","141303019",32,"left heart failure",1
+"2694523019","G5yyD00","429589006","2694523019",32,"left ventricular cardiac dysfunction",1
+"1489358014","G5yyA00","395704004","1489358014",32,"left ventricular diastolic dysfunction",1
+"3886061000006119","","85232009","201199018",32,"left-sided heart failure",1
+"3852501000006115","","83105008","137848017",32,"malignant hypertensive heart disease with congestive heart failure",1
+"2352391000000117","2JZ..00","915571000000102","2352391000000117",27,"on optimal heart failure therapy",1
+"300217019","G5y4z00","195130005","300214014",32,"post cardiac operation heart failure nos",1
+"216246012","8HTL.00","134440006","216246012",40,"referral to heart failure clinic",1
+"2549697018","8HHb.00","417146007","2549697018",40,"referral to heart failure nurse",1
+"303361000000111","9N6T.00","200171000000102","303361000000111",37,"referred by heart failure nurse specialist",1
+"206703015","G580.12","128404006","206703015",32,"right heart failure",1
+"2549128016","G5yyB00","416610007","2549128016",32,"right ventricular diastolic dysfunction",1
+"2549243014","9N0k.00","416717003","2549243014",37,"seen in heart failure clinic",1

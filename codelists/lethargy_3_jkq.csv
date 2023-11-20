@@ -1,0 +1,105 @@
+"snomedctconceptid","medcodeid","cleansedreadcode","snomedctdescriptionid","term","lethargy","search_stage","lethargy_yes"
+"61157009","101627011","E28..11","101627011","combat fatigue",1,1,0
+"520511000000101","1162261000000119","8HkW.00","1162261000000119","referral to chronic fatigue syndrome specialist team",1,1,0
+"522991000000100","1167821000000111","8HlL.00","1167821000000111","referral for chronic fatigue syndrome activity management",1,1,0
+"520511000000101","1167861000000115","8HkW.11","1167861000000115","referral to myalgic encephalomyelitis specialist team",1,2,0
+"708735004","11928531000006114","","3037550012","epworth sleepiness scale",1,1,0
+"11932911000006109","11932911000006113","","11932911000006113","ipos patient score : degree pt affected by drowsiness past 3 days",1,1,0
+"11933511000006109","11933511000006113","","11933511000006113","ipos patient score : degree pt affected by drowsiness past week",1,1,0
+"763227006","12001271000006119","","3639769016","assessment using epworth sleepiness scale",1,1,0
+"763254009","12001611000006114","","3638612015","epworth sleepiness scale score",1,1,0
+"77692006","1234153012","1BX1.00","1234153012","excessive sleep",1,2,0
+"88895004","147395012","L168.00","147395012","fatigue during pregnancy",1,1,0
+"522991000000100","1550161000000112","8HlL.11","1550161000000112","referral for myalgic encephalopathy activity management",1,2,0
+"1583951000006100","1583951000006116","","1583951000006116","epworth sleepiness scale (ess)",1,1,0
+"1761601000006106","1761601000006110","","1761601000006110","modified shuttle walk test - subjective fatigue at start of test",1,1,0
+"1761611000006109","1761611000006113","","1761611000006113","modified shuttle walk test - subjective fatigue at end of test",1,1,0
+"77692006","1772801000006112","","1772801000006112","hypersomnia",1,2,0
+"1819391000006105","1819391000006114","","1819391000006114","[v]occupational exposure to fatigue",1,1,0
+"1857681000006101","1857681000006117","","1857681000006117","subjective fatigue at start of exercise test",1,1,0
+"51771007","195091000006116","F286.13","86205014","pvfs - postviral fatigue syn",1,1,0
+"1963061000006109","1963061000006113","","1963061000006113","reasn fr referrl:chronic fatigue syndrome/myalgic encephalopathy",1,1,0
+"51771007","217451000006111","F286.14","86205014","post-viral fatigue syndrome",1,1,0
+"8614008","2637491000006110","","15216015","vocal fatigue",1,1,0
+"443226002","2840490018","","2840490018","fatigue impact scale",1,1,0
+"67195008","295477014","E283.00","500648010","other acute stress reactions",1,2,0
+"67195008","295483012","E283z00","500648010","other acute stress reaction nos",1,2,0
+"473332000","2956452010","","2956452010","chronic respiratory disease questionnaire fatigue subscale score",1,1,0
+"51771007","301351000006117","R007411","86205014","[d]post viral debility",1,2,0
+"88895004","305989015","L168000","147395012","fatigue during pregnancy unspecified",1,1,0
+"199121007","305990012","L168100","305990012","fatigue during pregnancy - delivered",1,1,0
+"199123005","305992016","L168300","305992016","fatigue during pregnancy - not delivered",1,1,0
+"199124004","305993014","L168400","305993014","fatigue during pregnancy with postnatal complication",1,1,0
+"88895004","305994015","L168z00","147395012","fatigue during pregnancy nos",1,1,0
+"202831001","311305016","N1y1.00","311305016","fatigue fracture of vertebra",1,1,0
+"271782001","316996017","R000000","406711011","drowsiness",1,1,1
+"271782001","316997014","R000100","406710012","somnolence",1,2,0
+"77692006","317048011","R005400","128946014","hypersomnia",1,2,0
+"271795006","317063014","R007.00","406741013","[d]malaise and fatigue",1,1,1
+"84229001","317065019","R007100","139690015","[d]fatigue",1,1,1
+"214264003","317067010","R007300","326229014","[d]lethargy",1,1,1
+"51771007","317068017","R007400","86205014","[d]postviral (asthenic) syndrome",1,2,0
+"271795006","317071013","R007z00","406741013","[d]malaise and fatigue nos",1,1,1
+"52702003","3354461000006111","","87703013","benign myalgic encephalomyelitis",1,2,0
+"77692006","345379011","E274311","128946014","hypersomnia nos",1,2,0
+"67195008","3592651000006112","","111640012","acute stress disorder",1,2,0
+"67195008","3592671000006119","","500647017","acute crisis reaction",1,2,0
+"67195008","3592701000006118","","500650019","acute reaction to stress",1,2,0
+"67195008","362301000006112","Eu43011","500647017","[x]acute crisis reaction",1,2,0
+"67195008","362401000006115","Eu43012","500648010","[x]acute reaction to stress",1,2,0
+"67195008","362441000006118","Eu43000","500648010","[x]acute stress reaction",1,2,0
+"67195008","371231000006113","Eu43013","500648010","[x]combat fatigue",1,1,0
+"67195008","375971000006116","Eu43014","500648010","[x]crisis state",1,2,0
+"77692006","3764061000006111","","1234154018","sleeps too much",1,2,0
+"77692006","3764071000006116","","1234155017","excessive sleepiness",1,1,0
+"79519003","3793261000006115","","131921013","drowsiness",1,1,0
+"79519003","3793271000006110","","131922018","sleepiness",1,1,0
+"79519003","3793281000006113","","131923011","somnolence",1,2,0
+"80449002","3808441000006110","","504428018","muscle fatigue",1,1,0
+"84229001","386731000006116","Eu46011","139690015","[x]fatigue syndrome",1,1,0
+"84229001","3870351000006114","","505979013","weariness",1,2,1
+"267088000","397981017","1B67.00","397981017","gets drowsiness",1,1,0
+"67195008","401810015","E28z.00","500648010","acute stress reaction nos",1,2,0
+"272060000","407105011","168..11","407105011","fatigue - symptom",1,1,1
+"67195008","423811000006112","Eu43015","500648010","[x]psychic shock",1,2,0
+"315243006","459734013","1B69.00","459734013","intermittent drowsiness",1,1,0
+"214264003","4875741000006118","","326230016","lethargic",1,2,1
+"763254009","496211000000119","388n.00","3638300012","ess (epworth sleepiness scale) score",1,1,0
+"52702003","496410014","F286.16","496410014","me - myalgic encephalomyelitis",1,2,0
+"51771007","496412018","F286.12","86205014","postviral fatigue syndrome",1,1,0
+"52702003","496413011","F286.15","496413011","myalgic encephalomyelitis",1,2,0
+"52702003","496414017","F286.11","496414017","cfs - chronic fatigue syndrome",1,1,0
+"67195008","500650019","E28..00","500648010","acute stress reaction",1,2,0
+"230489007","5008601000006119","","345383011","excessive daytime sleepiness - normal night sleep",1,1,0
+"230490003","5008611000006116","","345384017","excessive day and night-time sleepiness",1,1,0
+"230491004","5008631000006110","","345386015","postviral excessive daytime sleepiness",1,1,0
+"230492006","5008641000006117","","345387012","excess daytime sleepiness with sleep paralysis",1,1,0
+"271782001","5529301000006110","","406713014","drowsy",1,2,0
+"271782001","5529361000006111","","2957152013","sleepy",1,2,0
+"313328009","6028791000006112","","457216016","accommodative fatigue",1,1,0
+"313432002","6029961000006111","","457322011","post-ictal drowsiness",1,1,0
+"271782001","630041000006112","1B67.11","406711011","drowsiness - symptom",1,1,0
+"84229001","667321000006111","1682.00","139690015","fatigue",1,1,1
+"199122000","667361000006117","L168200","305991011","fatigue during pregnancy - delivered with postnatal complication",1,1,0
+"52702003","684221000006112","F03y.12","496413011","myalgic encephalomyelitis",1,2,0
+"440398005","7236591000006112","","2793501014","level of fatigue",1,1,0
+"271795006","730581000006116","1684.00","406741013","malaise and fatigue",1,1,0
+"372601000000101","732301000000114","8Q1..00","732301000000114","activity management for chronic fatigue syndrome",1,1,0
+"446880009","7331531000006111","","2883110010","fatigue impact scale score",1,1,0
+"372601000000101","737661000000116","8Q1..11","737661000000116","activity management for myalgic encephalopathy",1,2,0
+"377161000000108","742301000000113","F286200","742301000000113","severe chronic fatigue syndrome",1,1,0
+"377171000000101","742321000000116","F286100","742321000000116","moderate chronic fatigue syndrome",1,1,0
+"377181000000104","742341000000111","F286000","742341000000111","mild chronic fatigue syndrome",1,1,0
+"214264003","747481000006115","168..12","326229014","lethargy",1,1,1
+"473341005","7486811000006110","","2956535014","chronic respiratory disease questionnaire fatigue subscale",1,1,0
+"708735004","7638511000006117","","3037756015","ess - epworth sleepiness scale",1,1,0
+"713121000","7699971000006118","","3288113017","management of fatigue",1,1,0
+"716749005","7751501000006115","","3307427018","cancer-related fatigue",1,1,0
+"323341000000102","8103671000006118","","593651000000116","anxiety about lethargy",1,1,0
+"12979003","819011000006118","SN26.00","22233015","transient heat fatigue",1,1,0
+"912081000000102","8326151000006110","","2344261000000110","symptom assessment scale - fatigue score",1,1,0
+"1077511000000101","8452581000006117","","2701851000000115","chalder fatigue scale score",1,1,0
+"52702003","87704019","F286.00","87704019","chronic fatigue syndrome",1,1,0
+"52702003","882411000006117","E205.99","882411000006117","nervous debility -neurasthenia",1,2,0
+"12979003","899761000006118","SN26.99","899761000006118","heat fatigue - transient",1,1,0
+"959231000006104","959231000006115","","959231000006115","somatic complaints/fatigue",1,1,0

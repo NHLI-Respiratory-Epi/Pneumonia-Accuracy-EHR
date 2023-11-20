@@ -1,0 +1,281 @@
+"snomedctconceptid","medcodeid","cleansedreadcode","snomedctdescriptionid","term","pneumonia","lrti","pneumonia_lrti","hospital_acquired_pneumonia"
+"74644004","885261000006111","H27y099","885261000006111","influenza + encephalopathy",0,1,"lrti",0
+"35301006","58909014","H060500","58909014","acute tracheobronchitis",0,1,"lrti",0
+"315642008","460161011","16L..00","460161011","influenza-like symptoms",0,1,"lrti",0
+"55604004","92429016","H29..00","92429016","avian influenza",0,1,"lrti",0
+"6142004","387051000006110","Hyu0400","11203012","[x]flu+oth respiratory manifestations,'flu virus identified",0,1,"lrti",0
+"195742007","457801000006117","H062.00","301131016","acute lower respiratory tract infection",0,1,"lrti",0
+"440927002","676841000000114","4JU1.00","3034688012","influenza h2 virus detected",0,1,"lrti",0
+"233599001","350044014","H060A00","350044014","acute bronchitis due to mycoplasma pneumoniae",0,1,"lrti",0
+"32398004","350041018","H30..11","54101019","chest infection - unspecified bronchitis",0,1,"lrti",0
+"233598009","301121011","H060x00","350042013","acute bacterial bronchitis unspecified",0,1,"lrti",0
+"1033091000000109","1988651000006113","","2608991000000117","influenza with othr resp manifestation due to seasonal virus",0,1,"lrti",0
+"6142004","11203012","H27..00","11203012","influenza",0,1,"lrti",0
+"6142004","301415015","H271.00","11203012","influenza with other respiratory manifestation",0,1,"lrti",0
+"2397631000033105","2397631000033114","","2397631000033114","influenza myl",0,1,"lrti",0
+"195726000","456021000006115","H060C00","301114011","acute bronchitis due to parainfluenza virus",0,1,"lrti",0
+"195727009","4780491000006118","","301115012","acute respiratory syncytial virus bronchitis",0,1,"lrti",0
+"445102008","7302861000006118","","3291849011","bronchiolitis caused by human metapneumovirus",0,1,"lrti",0
+"1033051000000101","2608911000000114","","2608911000000114","influenza due to zoonotic influenza virus",0,1,"lrti",0
+"195728004","4780511000006112","","3290504011","acute bronchitis caused by rhinovirus",0,1,"lrti",0
+"195725001","4780461000006114","","301113017","acute coxsackieviral bronchitis",0,1,"lrti",0
+"195729007","456001000006113","H060F00","301117016","acute bronchitis due to echovirus",0,1,"lrti",0
+"195722003","4780421000006115","","2470034017","acute moraxella catarrhalis bronchitis",0,1,"lrti",0
+"1029911000000100","2175841000000116","43wD.00","2595561000000119","influenza b nucleic acid detection",0,1,"lrti",0
+"195647007","300997012","H0...00","300997012","acute respiratory infections",0,1,"lrti",0
+"445102008","7302821000006112","","2872685013","bronchiolitis due to human metapneumovirus",0,1,"lrti",0
+"195725001","455991000006112","H060B00","301112010","acute bronchitis due to coxsackievirus",0,1,"lrti",0
+"442696006","1128141000000118","H2A..11","1128141000000118","influenza a (h1n1) swine flu",0,1,"lrti",0
+"195729007","4780541000006111","","3035673014","acute bronchitis due to echovirus",0,1,"lrti",0
+"195725001","4780451000006112","","301112010","acute coxsackievirus bronchitis",0,1,"lrti",0
+"445102008","1816261000006119","H061700","2988948018","acute bronchiolitis due to human metapneumovirus",0,1,"lrti",0
+"195729007","4780531000006118","","301118014","acute echoviral bronchitis",0,1,"lrti",0
+"95891005","4063911000006112","","2920741013","influenza like illness",0,1,"lrti",0
+"50417007","733471000006110","H06z100","83992015","lower resp tract infection",0,1,"lrti",0
+"441343005","676961000000116","4JU3.00","2882423016","influenza h5 virus detected",0,1,"lrti",0
+"843921000033101","843921000033117","","843921000033117","*influenza & common cold",0,1,"lrti",0
+"6142004","389891000006119","Hyu0700","11203012","[x]influenza+other manifestations, virus not identified",0,1,"lrti",0
+"233599001","5053331000006119","","350043015","acute mycoplasmal bronchitis",0,1,"lrti",0
+"6142004","301418018","H271z00","11203012","influenza with respiratory manifestations nos",0,1,"lrti",0
+"442696006","2820795016","H2A..00","2820795016","influenza due to influenza a virus subtype h1n1",0,1,"lrti",0
+"195742007","301819015","Hyu1.00","301131016","[x]other acute lower respiratory infections",0,1,"lrti",0
+"50417007","3316401000006114","","1230862016","lrti - lower respiratory tract infection",0,1,"lrti",0
+"4120002","2564641000006110","","8354017","bronchiolitis",0,1,"lrti",0
+"233602006","301129013","H061600","350047019","acute bronchiolitis due to other specified organisms",0,1,"lrti",0
+"50417007","396090018","H06z000","83992015","chest infection nos",0,1,"lrti",0
+"195726000","4780481000006116","","301114011","acute parainfluenza virus bronchitis",0,1,"lrti",0
+"55735004","92677014","A79A.00","92677014","respiratory syncytial virus infection",0,1,"lrti",0
+"441344004","689941000000115","4JUF.00","2790535011","human parainfluenza virus detected",0,1,"lrti",0
+"55735004","3405411000006114","","1231522017","rsv - respiratory syncytial virus infection",0,1,"lrti",0
+"195729007","4780521000006116","","301117016","acute echovirus bronchitis",0,1,"lrti",0
+"195742007","579878017","H06z112","301131016","acute lower respiratory tract infection",0,1,"lrti",0
+"95891005","778711000006116","H27z.12","158839016","influenza like illness",0,1,"lrti",0
+"195714005","2475602011","H060400","2475602011","acute croupous bronchitis",0,1,"lrti",0
+"709410003","7649691000006115","","3039757019","haemophilus influenzae type b infection",0,1,"lrti",0
+"1029901000000102","2115571000000116","43w9.00","2597071000000110","parainfluenza type 4 nucleic acid detection",0,1,"lrti",0
+"91428005","288067017","Ayu3U00","151462017","[x]haemophilus influenzae infection, unspecified",0,1,"lrti",0
+"441043003","676781000000110","4JU0.00","2882417014","influenza h1 virus detected",0,1,"lrti",0
+"445102008","7302851000006115","","3291618016","acute bronchiolitis caused by human metapneumovirus",0,1,"lrti",0
+"195902009","546511000006112","H24..11","301388014","chest infection with infectious disease ec",0,1,"lrti",0
+"5505005","301821013","Hyu1100","10187013","[x]acute bronchiolitis due to other specified organisms",0,1,"lrti",0
+"711330007","1126371000000114","4J3L.00","3078435012","influenza a virus h1n1 subtype detected",0,1,"lrti",0
+"709410003","7649701000006115","","2496051000000114","hib (haemophilus influenzae type b) infection",0,1,"lrti",0
+"195712009","301095014","H06..00","2820607014","acute bronchitis and bronchiolitis",0,1,"lrti",0
+"312371005","301820014","Hyu1000","456072011","[x]acute bronchitis due to other specified organisms",0,1,"lrti",0
+"195728004","301116013","H060E00","301116013","acute bronchitis due to rhinovirus",0,1,"lrti",0
+"195737004","301126018","H061300","301126018","acute exudative bronchiolitis",0,1,"lrti",0
+"637921000000108","885051000006117","H0z..99","885051000006117","acute resp. infection nos",0,1,"lrti",0
+"195739001","301128017","H061500","301128017","acute bronchiolitis due to respiratory syncytial virus",0,1,"lrti",0
+"6142004","301424012","H27yz00","11203012","influenza with other manifestations nos",0,1,"lrti",0
+"1033071000000105","2608951000000113","","2608951000000113","influenza due to pandemic influenza virus",0,1,"lrti",0
+"6142004","301421016","H27y.00","11203012","influenza with other manifestations",0,1,"lrti",0
+"442696006","7267051000006117","","2820794017","influenza a (h1n1)",0,1,"lrti",0
+"275499005","411490016","H060.11","411490016","acute wheezy bronchitis",0,1,"lrti",0
+"637921000000108","12726371000006114","","1405301000000117","acute respiratory infection nos",0,1,"lrti",0
+"1707241000006104","1707241000006115","","1707241000006115","swine influenza",0,1,"lrti",0
+"195739001","4780571000006115","","3290582012","acute bronchiolitis caused by respiratory syncytial virus",0,1,"lrti",0
+"195721005","301108016","H060800","301108016","acute haemophilus influenzae bronchitis",0,1,"lrti",0
+"195647007","301144014","H0y..00","300997012","other specified acute respiratory infections",0,1,"lrti",0
+"195722003","301109012","H060900","301109012","acute neisseria catarrhalis bronchitis",0,1,"lrti",0
+"195647007","4780011000006115","","300998019","ari - acute respiratory infections",0,1,"lrti",0
+"10509002","301122016","H060z00","18268014","acute bronchitis nos",0,1,"lrti",0
+"1033091000000109","1988661000006110","","2608991000000117","influenza with other manifestations due to seasonl inf virus",0,1,"lrti",0
+"195719000","301105018","H060600","301105018","acute pneumococcal bronchitis",0,1,"lrti",0
+"5505005","10187013","H061.00","10187013","acute bronchiolitis",0,1,"lrti",0
+"10509002","18268014","H060.00","18268014","acute bronchitis",0,1,"lrti",0
+"91428005","151462017","A3B5.00","151462017","haemophilus influenzae infection",0,1,"lrti",0
+"906821000033102","906821000033118","","906821000033118","haemophilus influenzae (lyophilized bacterial lysates)",0,1,"lrti",0
+"6142004","396106019","H27z.00","11203012","influenza nos",0,1,"lrti",0
+"195742007","546411000006111","H06z011","301131016","chest infection",0,1,"lrti",0
+"10509002","885041000006119","H06..99","885041000006119","acute bronchitis/bronchiolitis",0,1,"lrti",0
+"6142004","389901000006115","Hyu0500","11203012","[x]influenza+other manifestations,influenza virus identified",0,1,"lrti",0
+"195923003","301416019","H271000","301416019","influenza with laryngitis",0,1,"lrti",0
+"15199004","25801011","H061200","25801011","acute bronchiolitis with bronchospasm",0,1,"lrti",0
+"1029741000000101","353591000000117","43jy.00","2597051000000118","parainfluenza type 2 nucleic acid detection",0,1,"lrti",0
+"195717003","301103013","H060300","301103013","acute purulent bronchitis",0,1,"lrti",0
+"441345003","677081000000114","4JU5.00","2794563017","influenza b virus detected",0,1,"lrti",0
+"36426008","301119018","H060v00","60783018","subacute bronchitis unspecified",0,1,"lrti",0
+"10509002","301132011","H06z.00","18268014","acute bronchitis or bronchiolitis nos",0,1,"lrti",0
+"275498002","175471000006116","H5yy.11","411488017","respiratory infection nos",0,1,"lrti",0
+"441049004","676901000000115","4JU2.00","2882421019","influenza h3 virus detected",0,1,"lrti",0
+"359351000000100","677021000000113","4JU4.00","676741000000119","influenza a virus, other or untyped strain detected",0,1,"lrti",0
+"233602006","5053371000006116","","350047019","acute viral bronchiolitis",0,1,"lrti",0
+"195725001","4780471000006119","","3300309019","acute bronchitis caused by coxsackievirus",0,1,"lrti",0
+"233601004","301120012","H060w00","350046011","acute viral bronchitis unspecified",0,1,"lrti",0
+"442696006","7267061000006115","","3291265019","influenza caused by influenza a virus subtype h1n1",0,1,"lrti",0
+"275498002","411488017","H06z111","411488017","respiratory tract infection",0,1,"lrti",0
+"195924009","301417011","H271100","301417011","influenza with pharyngitis",0,1,"lrti",0
+"1029731000000105","353561000000111","43jx.00","2595621000000111","parainfluenza type 1 nucleic acid detection",0,1,"lrti",0
+"907511000006105","907511000006114","","907511000006114","[rfc] chest infection",0,1,"lrti",0
+"1029751000000103","353621000000119","43jz.00","2597061000000115","parainfluenza type 3 nucleic acid detection",0,1,"lrti",0
+"195647007","301145010","H0z..00","2817368013","acute respiratory infection nos",0,1,"lrti",0
+"1031631000000102","312571000000119","43jQ.00","2595321000000118","avian influenza virus nucleic acid detection",0,1,"lrti",0
+"275498002","5573831000006110","","411489013","rti - respiratory tract infection",0,1,"lrti",0
+"195727009","456031000006117","H060D00","301115012","acute bronchitis due to respiratory syncytial virus",0,1,"lrti",0
+"1033091000000109","2608991000000117","","2608991000000117","influenza due to seasonal influenza virus",0,1,"lrti",0
+"195712009","12717061000006114","","2820607014","acute bronchitis and/or bronchiolitis",0,1,"lrti",0
+"309789002","5992751000006117","","453273018","encephalitis due to influenza",0,1,"lrti",0
+"50417007","3316381000006114","","83996017","lower respiratory infection",0,1,"lrti",0
+"195720006","301106017","H060700","301106017","acute streptococcal bronchitis",0,1,"lrti",0
+"5505005","301130015","H061z00","10187013","acute bronchiolitis nos",0,1,"lrti",0
+"312342009","396104016","H24..00","456043010","pneumonia with infectious diseases ec",1,0,"pneumonia",0
+"80003002","132731014","A116.00","132731014","tuberculous pneumonia",1,0,"pneumonia",0
+"233624006","350073012","A54x400","350073012","herpes simplex pneumonia",1,0,"pneumonia",0
+"409801009","6784561000006113","","2471533010","esbl klebsiella pneumoniae",1,0,"pneumonia",0
+"46970008","3259121000006116","","494704011","mycoplasma pneumoniae pneumonia",1,0,"pneumonia",0
+"308906005","5983281000006111","","452294011","secondary bacterial pneumonia",1,0,"pneumonia",0
+"75570004","301814013","Hyu0D00","125510013","[x]pneumonia in viral diseases classified elsewhere",1,0,"pneumonia",0
+"408679000","6765531000006117","","2470540015","healthcare associated pneumonia",1,0,"pneumonia",1
+"186435004","4741931000006113","","2792212017","bacterial infection due to klebsiella pneumoniae",1,0,"pneumonia",0
+"70036007","219851000006115","H222.11","116320011","pneumonia due to haemophilus influenzae",1,0,"pneumonia",0
+"312342009","301812012","Hyu0B00","456043010","[x]pneumonia due to other specified infectious organisms",1,0,"pneumonia",0
+"64917006","3555891000006119","","1232627018","pneumonia due to parainfluenza virus",1,0,"pneumonia",0
+"702938004","7568441000006116","","3006447019","klebsiella pneumoniae or klebsiella oxytoca",1,0,"pneumonia",0
+"396285007","546481000006116","H25..11","1776258010","chest infection - unspecified bronchopneumonia",1,0,"pneumonia",0
+"278516003","1772681000006119","","1772681000006119","lobar pneumonia",1,0,"pneumonia",0
+"59475000","1231963019","H243.00","1231963019","pneumonia with whooping cough",1,0,"pneumonia",0
+"1576341000006102","1576341000006118","","1576341000006118","cause of death- bronchopneumonia",1,0,"pneumonia",0
+"41207000","219801000006119","H200.00","68738015","pneumonia due to adenovirus",1,0,"pneumonia",0
+"195878008","301357010","H2...00","301357010","pneumonia and influenza",1,0,"pneumonia",0
+"41207000","3163841000006112","","68738015","adenoviral pneumonia",1,0,"pneumonia",0
+"195878008","546421000006115","H270.11","301357010","chest infection - influenza with pneumonia",1,0,"pneumonia",0
+"301001009","5887781000006118","","442221018","rll - right lower lobe pneumonia",1,0,"pneumonia",0
+"425464007","7044721000006118","","2674071017","nosocomial pneumonia",1,0,"pneumonia",0
+"7063008","2612661000006111","","501627018","necrotising pneumonia",1,0,"pneumonia",0
+"1240551000000105","13012271000006118","","2827631000000110","pneumonia caused by sars-cov-2 (severe acute respiratory syndrome coronavirus 2)",1,0,"pneumonia",0
+"301004001","5887901000006113","","442229016","rul - right upper lobe pneumonia",1,0,"pneumonia",0
+"233609002","350054013","H233.00","350054013","chlamydial pneumonia",1,0,"pneumonia",0
+"430395005","2765492018","","2765492018","pneumonia due to gram negative bacteria",1,0,"pneumonia",0
+"689401000000108","885231000006119","H25..99","885231000006119","bronchopneumonia",1,0,"pneumonia",0
+"396285007","6566931000006116","","3465272019","lobular pneumonia",1,0,"pneumonia",0
+"195878008","301414016","H270z00","301357010","influenza with pneumonia nos",1,0,"pneumonia",0
+"59475000","885221000006117","H243.99","885221000006117","whooping cough pneumonia",1,0,"pneumonia",0
+"233604007","301817018","Hyu0G00","350049016","pneumonia",1,0,"pneumonia",0
+"277869007","5605771000006116","","414595013","non-tuberculous mycobacterial pneumonia",1,0,"pneumonia",0
+"301000005","1772731000006112","","442217013","left lower zone pneumonia",1,0,"pneumonia",0
+"425464007","7044731000006115","","3427976013","hap - hospital acquired pneumonia",1,0,"pneumonia",1
+"195878008","778871000006116","H270.00","301357010","influenza with pneumonia",1,0,"pneumonia",0
+"312342009","1222333010","H23..11","456043010","chest infection - pneumonia organism os",1,0,"pneumonia",0
+"41269000","1229740013","H270000","1229740013","influenza with bronchopneumonia",1,0,"pneumonia",0
+"53084003","219881000006111","H22yX00","88303013","pneumonia due to other aerobic gram-negative bacteria",1,0,"pneumonia",0
+"233613009","301393012","H247z00","350060013","pneumonia with systemic mycosis nos",1,0,"pneumonia",0
+"426696003","1772701000006116","","2674103016","lingular pneumonia",1,0,"pneumonia",0
+"111900000","1219703018","H246.00","1219703018","pneumonia with aspergillosis",1,0,"pneumonia",0
+"301000005","5887701000006110","","442213012","left basal pneumonia",1,0,"pneumonia",0
+"385093006","1479355018","H2B..00","1479355018","community acquired pneumonia",1,0,"pneumonia",0
+"312342009","301382010","H23z.00","456043010","pneumonia due to specified organism nos",1,0,"pneumonia",0
+"195909000","301397013","H24y100","301397013","pneumonia with nocardiasis",1,0,"pneumonia",0
+"1708141000006107","1708141000006111","","1708141000006111","crb-65 pneumonia severity score",1,0,"pneumonia",0
+"64917006","3555901000006115","","3035270018","parainfluenza pneumonia",1,0,"pneumonia",0
+"396285007","1772771000006110","","1772771000006110","bronchopneumonia",1,0,"pneumonia",0
+"18400002","2792341000006111","","1222111015","klebsiella pneumoniae subsp pneumoniae",1,0,"pneumonia",0
+"301003007","5887871000006113","","442228012","right middle lobe pneumonia",1,0,"pneumonia",0
+"38699009","301392019","H247200","64397019","pneumonia with histoplasmosis",1,0,"pneumonia",0
+"195878008","885251000006114","H270.99","885251000006114","influenza + pneumonia",1,0,"pneumonia",0
+"53084003","301813019","Hyu0C00","88303013","[x]pneumonia in bacterial diseases classified elsewhere",1,0,"pneumonia",0
+"75570004","301809014","Hyu0800","125510013","[x]other viral pneumonia",1,0,"pneumonia",0
+"195900001","220111000006113","H240.00","301386013","pneumonia with measles",1,0,"pneumonia",0
+"407671000","6750331000006114","","2159270017","bilateral pneumonia",1,0,"pneumonia",0
+"882784691000119100","13484101000006116","","3951294010","pneumonia caused by 2019 novel coronavirus",1,0,"pneumonia",0
+"75570004","301364012","H20z.00","125510013","viral pneumonia nos",1,0,"pneumonia",0
+"75570004","301363018","H20y.00","125510013","viral pneumonia nec",1,0,"pneumonia",0
+"195889001","219771000006116","H22y200","301372014","legionella pneumonia",1,0,"pneumonia",0
+"191727003","4764761000006112","","2547723010","post measles pneumonia",1,0,"pneumonia",0
+"425464007","2674072012","H2C..00","2674072012","hospital acquired pneumonia",1,0,"pneumonia",1
+"266350000","885191000006112","H21..99","885191000006112","lobar -pneumococcal -pneumonia",1,0,"pneumonia",0
+"1033111000000104","2609031000000111","","2609031000000111","influenza with pneumonia due to seasonal influenza virus",1,0,"pneumonia",0
+"51530003","3334901000006115","","2671161016","pneumonia due to escherichia coli",1,0,"pneumonia",0
+"22754005","219971000006119","H224.00","38198016","staphylococcal pneumonia",1,0,"pneumonia",0
+"59475000","1231962012","H243.11","1231962012","pneumonia with pertussis",1,0,"pneumonia",0
+"7678002","220071000006117","H241.00","13688018","pneumonia with cytomegalic inclusion disease",1,0,"pneumonia",0
+"312342009","301390010","H247.00","456043010","pneumonia with other systemic mycoses",1,0,"pneumonia",0
+"1240551000000105","12990651000006112","","2807991000000111","pneumonia caused by 2019-ncov (novel coronavirus)",1,0,"pneumonia",0
+"57702005","3437661000006113","","95962012","unresolved pneumonia",1,0,"pneumonia",0
+"70036007","219841000006117","H222.00","116320011","haemophilus influenzae pneumonia",1,0,"pneumonia",0
+"195909000","4781271000006113","","301396016","nocardial pneumonia",1,0,"pneumonia",0
+"300999006","1772711000006118","","1772711000006118","basal pneumonia",1,0,"pneumonia",0
+"301004001","5887921000006115","","442231013","right upper lobe pneumonia",1,0,"pneumonia",0
+"53084003","301370018","H22y.00","88303013","pneumonia due to other specified bacteria",1,0,"pneumonia",0
+"195878008","301413010","H270100","301357010","influenza with pneumonia, influenza virus identified",1,0,"pneumonia",0
+"195886008","219991000006118","H223000","301369019","pneumonia due to streptococcus, group b",1,0,"pneumonia",0
+"75570004","125510013","H20..00","125510013","viral pneumonia",1,0,"pneumonia",0
+"312342009","301403019","H24yz00","456043010","pneumonia with other infectious diseases ec nos",1,0,"pneumonia",0
+"195908008","220021000006118","H24y000","301395017","pneumonia with actinomycosis",1,0,"pneumonia",0
+"312342009","301377015","H23..00","456043010","pneumonia due to other specified organisms",1,0,"pneumonia",0
+"540151000000108","932231000006112","H2z..98","932231000006112","bilateral pneumonia",1,0,"pneumonia",0
+"301000005","5887711000006113","","442214018","lll - left lower lobe pneumonia",1,0,"pneumonia",0
+"64917006","3555881000006117","","499984015","parainfluenzal pneumonia",1,0,"pneumonia",0
+"59475000","3465961000006115","","98793016","pneumonia in pertussis",1,0,"pneumonia",0
+"64479007","107173015","H220.00","107173015","pneumonia due to klebsiella pneumoniae",1,0,"pneumonia",0
+"301001009","1772741000006119","","442218015","right lower zone pneumonia",1,0,"pneumonia",0
+"123587001","4353381000006111","","192076015","acute bronchopneumonia",1,0,"pneumonia",0
+"301000005","5887721000006117","","442215017","left lower lobe pneumonia",1,0,"pneumonia",0
+"53084003","301375011","H22yz00","88303013","pneumonia due to bacteria nos",1,0,"pneumonia",0
+"301002002","1772691000006116","","442225010","left upper zone pneumonia",1,0,"pneumonia",0
+"56415008","3416581000006114","","93818017","klebsiella pneumoniae",1,0,"pneumonia",0
+"385093006","1787121000006116","","1787121000006116","community acquired pneumonia",1,0,"pneumonia",0
+"81164001","220131000006119","H242.00","134668017","pneumonia with ornithosis",1,0,"pneumonia",0
+"425996009","1772721000006114","","2674104010","bilateral basal pneumonia",1,0,"pneumonia",0
+"300999006","5887681000006112","","442212019","lower lobe pneumonia",1,0,"pneumonia",0
+"233607000","5053421000006111","","350052012","pneumococcal pneumonia",1,0,"pneumonia",0
+"301003007","1772751000006117","","442226011","right middle zone pneumonia",1,0,"pneumonia",0
+"233606009","350051017","H28..00","350051017","atypical pneumonia",1,0,"pneumonia",0
+"703018008","7569441000006111","","3006704015","streptococcus acidominimus or streptococcus pneumoniae or streptococcus morbillorum",1,0,"pneumonia",0
+"312342009","546441000006110","H26..11","456043010","chest infection - pnemonia due to unspecified organism",1,0,"pneumonia",0
+"34020007","56816017","H223.00","56817014","streptococcal pneumonia",1,0,"pneumonia",0
+"713084008","7699541000006118","","3297717014","pneumonia caused by human coronavirus",1,0,"pneumonia",0
+"195886008","4781141000006114","","301369019","group b streptococcal pneumonia",1,0,"pneumonia",0
+"301004001","1772761000006115","","442232018","right upper zone pneumonia",1,0,"pneumonia",0
+"196112005","301686019","H530300","301686019","abscess of lung with pneumonia",1,0,"pneumonia",0
+"195908008","4781261000006118","","301395017","actinomycotic pneumonia",1,0,"pneumonia",0
+"233622005","5053611000006118","","1208694011","infectious mononucleosis pneumonia",1,0,"pneumonia",0
+"233613009","301815014","Hyu0E00","350060013","[x]pneumonia in mycoses classified elsewhere",1,0,"pneumonia",0
+"441658007","7253251000006114","","2817462013","pneumonia due to staphylococcus aureus",1,0,"pneumonia",0
+"312342009","301394018","H24y.00","456043010","pneumonia with other infectious diseases ec",1,0,"pneumonia",0
+"406595002","683591000006114","A3BXA00","2158243017","mycoplasma pneumoniae [pplo] cause/dis classifd/oth chaptr",1,0,"pneumonia",0
+"882784691000119100","13484081000006112","","2833571000000118","pneumonia caused by sars-cov-2 (severe acute respiratory syndrome coronavirus 2)",1,0,"pneumonia",0
+"53084003","301376012","H22z.00","88303013","bacterial pneumonia",1,0,"pneumonia",0
+"75570004","546491000006118","H20..11","125510013","chest infection - viral pneumonia",1,0,"pneumonia",0
+"34020007","3047811000006116","","56816017","pneumonia due to streptococcus",1,0,"pneumonia",0
+"53084003","1222332017","H22..11","88303013","chest infection - other bacterial pneumonia",1,0,"pneumonia",0
+"266350000","546451000006112","H21..11","396103010","chest infection - pneumococcal pneumonia",1,0,"pneumonia",0
+"301001009","5887791000006115","","442222013","right lower lobe pneumonia",1,0,"pneumonia",0
+"396285007","396105015","H25..00","1776258010","bronchopneumonia",1,0,"pneumonia",0
+"195896004","219921000006115","H232.00","301380019","pneumonia due to pleuropneumonia like organisms",1,0,"pneumonia",0
+"445096001","2872480010","H203.00","2872480010","pneumonia due to human metapneumovirus",1,0,"pneumonia",0
+"882784691000119100","13484091000006110","","3951095016","covid-19 pneumonia",1,0,"pneumonia",0
+"882784691000119100","13484121000006114","","2833741000000115","pneumonia caused by 2019-ncov (novel coronavirus)",1,0,"pneumonia",0
+"195896004","4781201000006119","","301380019","pneumonia due to pleuropneumonia-like organism",1,0,"pneumonia",0
+"51530003","633531000006116","H22y011","1230992012","e.coli pneumonia",1,0,"pneumonia",0
+"312342009","301818011","Hyu0H00","456043010","[x]other pneumonia, organism unspecified",1,0,"pneumonia",0
+"40733004","754391000006117","A3BXB00","492755015","klebsiella pneumoniae/cause/disease classifd/oth chapters",1,0,"pneumonia",0
+"46970008","78272011","H231.99","78272011","mycoplasma pneumonia",1,0,"pneumonia",0
+"301002002","5887821000006112","","442223015","left upper lobe pneumonia",1,0,"pneumonia",0
+"301001009","5887761000006111","","442219011","right basal pneumonia",1,0,"pneumonia",0
+"53084003","301811017","Hyu0A00","88303013","[x]other bacterial pneumonia",1,0,"pneumonia",0
+"312342009","301408011","H26..00","456043010","infective pneumonia",1,0,"pneumonia",0
+"46970008","2164029012","H231.00","494705012","mycoplasmal pneumonia",1,0,"pneumonia",0
+"312342009","301404013","H24z.00","456043010","pneumonia with infectious diseases ec nos",1,0,"pneumonia",0
+"425464007","1787131000006118","","1787131000006118","hospital acquired pneumonia",1,0,"pneumonia",1
+"195904005","301391014","H247100","301391014","pneumonia with coccidioidomycosis",1,0,"pneumonia",0
+"616141000000106","885241000006112","H26..99","885241000006112","pneumonia nos",1,0,"pneumonia",0
+"41381004","3166801000006115","","69026013","pneumonia due to pseudomonas",1,0,"pneumonia",0
+"195888009","219931000006117","H22y100","301371019","pneumonia due to proteus",1,0,"pneumonia",0
+"266350000","739941000006111","H21..00","396103010","pneumococcal lobar pneumonia",1,0,"pneumonia",0
+"53084003","301810016","Hyu0900","88303013","[x]pneumonia due to other aerobic gram-negative bacteria",1,0,"pneumonia",0
+"2523007","220201000006117","H24y400","5303018","pneumonia with salmonellosis",1,0,"pneumonia",0
+"53084003","301368010","H22..00","88303013","other bacterial pneumonia",1,0,"pneumonia",0
+"195900001","301386013","H240.99","301386013","measles pneumonia",1,0,"pneumonia",0
+"195911009","4781311000006113","","301401017","varicella pneumonia",1,0,"pneumonia",0
+"51530003","2671161016","H22y000","1230992012","escherichia coli pneumonia",1,0,"pneumonia",0
+"278516003","301409015","H260.00","415454018","lobar pneumonia",1,0,"pneumonia",0
+"7678002","2622071000006116","","13688018","cytomegaloviral pneumonia",1,0,"pneumonia",0
+"195881003","301362011","H201.00","301362011","pneumonia due to respiratory syncytial virus",1,0,"pneumonia",0
+"195911009","220251000006118","H24y700","301399011","chickenpox pneumonia",1,0,"pneumonia",0
+"64917006","1232627018","H202.00","499984015","pneumonia due to parainfluenza virus",1,0,"pneumonia",0
+"300999006","451130014","H261.00","442211014","basal pneumonia",1,0,"pneumonia",0
+"406595002","399241000006111","AyuK900","2158243017","infection due to mycoplasma pneumoniae",1,0,"pneumonia",0
+"195878008","301430012","H2y..00","301357010","other specified pneumonia or influenza",0,0,"unclear",0
+"195878008","301431011","H2z..00","301357010","pneumonia or influenza nos",0,0,"unclear",0
+"540151000000108","12721231000006111","","1204911000000119","pneumonia or influenza nos",0,0,"unclear",0
+"540151000000108","885271000006116","H2z..99","885271000006116","pneumonia/influenza nos",0,0,"unclear",0

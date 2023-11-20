@@ -1,0 +1,44 @@
+"snomedctconceptid","medcodeid","cleansedreadcode","snomedctdescriptionid","term","tachycardia","search_stage","tachy_yes"
+"66657009","110733013","G571.00","110733013","paroxysmal ventricular tachycardia",1,1,1
+"67198005","111643014","G570.00","111643014","paroxysmal supraventricular tachycardia",1,1,1
+"3424008","1222503016","R050.11","6781010","rapid heart beat",1,2,1
+"870252007","13963181000006111","","3968693016","ventricular tachycardia ablation",1,1,1
+"11092001","19216010","G57y700","19216010","sinus tachycardia",1,1,1
+"162992001","254026011","2426.00","254026011","o/e - pulse rate tachycardia",1,1,1
+"3424008","2553651000006116","","1228155015","heart rate fast",1,2,1
+"164891006","256480012","3274.00","256480012","ecg: paroxysmal atrial tachy.",1,2,1
+"164895002","256484015","3282.00","256484015","ecg: ventricular tachycardia",1,1,1
+"6456007","2602941000006117","","1232575015","svt - supraventricular tachycardia",1,1,1
+"427084000","2676303012","","2676303012","ecg: sinus tachycardia",1,1,1
+"162992001","274941000006115","2426.11","254026011","o/e - tachycardia",1,1,1
+"195069001","300106011","G570000","300106011","paroxysmal atrial tachycardia",1,1,1
+"195070000","300110014","G570100","300110014","paroxysmal atrioventricular tachycardia",1,1,1
+"195071001","300111013","G570200","300111013","paroxysmal junctional tachycardia",1,1,1
+"195072008","300114017","G570300","300114017","paroxysmal nodal tachycardia",1,1,1
+"67198005","300119010","G570z00","111643014","paroxysmal supraventricular tachycardia nos",1,1,1
+"12026006","300126010","G572.00","20726010","paroxysmal tachycardia",1,1,1
+"12026006","300129015","G572z00","20726010","paroxysmal tachycardia nos",1,1,1
+"6456007","300167017","G57y900","11705016","supraventricular tachycardia",1,1,1
+"3424008","317327019","R050.00","6779013","tachycardia",1,1,1
+"49982000","3309351000006110","","83252012","multifocal atrial tachycardia",1,1,1
+"82838007","3847721000006116","","137412014","irregular tachycardia",1,1,1
+"164891006","4586661000006110","","2619242011","electrocardiogram: paroxysmal atrial tachycardia",1,1,1
+"195069001","4777351000006114","","300104014","atrial paroxysmal tachycardia",1,1,1
+"233892002","5057041000006118","","350441011","ectopic atrial tachycardia",1,1,1
+"233896004","5057091000006110","","350446018","re-entrant atrioventricular node tachycardia",1,1,1
+"233896004","5057101000006116","","350447010","avrnt - atrioventricular re-entrant nodal tachycardia",1,1,1
+"233897008","5057111000006118","","350449013","re-entrant atrioventricular tachycardia",1,1,1
+"233897008","5057121000006114","","350448017","avrt - atrioventricular re-entrant tachycardia",1,1,1
+"233900001","5057151000006117","","350452017","supraventricular tachycardia with functional bundle branch block",1,1,1
+"251156000","5296171000006112","","374304016","wide qrs ventricular tachycardia",1,1,1
+"251157009","5296181000006110","","374305015","narrow qrs ventricular tachycardia",1,1,1
+"251158004","5296191000006113","","374306019","ventricular tachycardia, monomorphic",1,1,1
+"251165007","5296321000006113","","374318011","av junctional (nodal) tachycardia",1,1,1
+"251166008","5296351000006116","","374319015","av nodal re-entry tachycardia",1,1,1
+"251166008","5296361000006119","","2619726015","atrioventricular nodal re-entry tachycardia",1,1,1
+"276796006","5590611000006118","","413083010","atrial tachycardia",1,1,1
+"278086000","5608751000006119","","414885013","baseline tachycardia",1,1,1
+"278482008","5613821000006111","","415405013","atrioventricular tachycardia",1,1,1
+"425582007","7046521000006117","","2674232010","inappropriate sinus tachycardia",1,1,1
+"426761007","7063881000006115","","2676305017","ecg: supraventricular tachycardia",1,1,1
+"67198005","884361000006119","G570.99","884361000006119","parox. supravent. tachycardia",1,1,1

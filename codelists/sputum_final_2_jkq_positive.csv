@@ -1,0 +1,5 @@
+"medcodeid","term","sputum","cleansedreadcode","snomedctconceptid","snomedctdescriptionid","sent","positive","abnormal"
+"131721000006111","sputum appears infected",1,"4E3Z.12","275719008","411654018",1,1,1
+"1717261000006118","sputum specimen",1,"","119334006","180853012",1,1,0
+"411654018","sputum evidence of infection",1,"4E3Z.11","275719008","411654018",1,1,1
+"131741000006116","microbial culture of sputum",1,"4E4..00","104173009","168044010",1,1,0

@@ -1,0 +1,14 @@
+"snomedctconceptid","medcodeid","cleansedreadcode","snomedctdescriptionid","term","blood_culture","search_stage","sent","positive"
+"1717431000006105","1717431000006114","","1717431000006114","blood culture bottle",1,1,1,0
+"1718141000006109","1718141000006113","","1718141000006113","blood culture bottle aerobic (sa blue cap) 40 ml",1,1,1,0
+"1718151000006106","1718151000006110","","1718151000006110","blood culture bottle anaerobic (sn purple cap) 40 ml",1,1,1,0
+"1718161000006108","1718161000006112","","1718161000006112","blood culture bottle finished antibiotics (fa green cap) 40 ml",1,1,1,0
+"1963551000006101","1963551000006117","4JI4.00","1963551000006117","test request : blood culture",1,1,1,0
+"168330007","261423011","4JI1.00","261423011","blood sent for culture",1,1,1,0
+"269948003","261427012","4JIZ.00","404605015","blood sample for organism nos",1,2,1,0
+"30088009","2984291000006114","","50342015","blood culture",1,1,1,0
+"269948003","404605015","4JI..00","404605015","blood sample for organism",1,2,1,0
+"269948003","411835015","4JI..11","404605015","blood for culture",1,1,1,0
+"1009211000000104","50342015","4JI4.00","2551831000000116","blood culture",1,1,1,0
+"275870007","5577731000006112","","411835015","blood for culture",1,1,1,0
+"8730001000004107","9090751000006119","","3078283012","positive blood culture",1,1,1,1

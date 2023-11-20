@@ -1,0 +1,924 @@
+"medcodeid","diabetes","term"
+"317347010",1,"[D]Gangrene of toe in diabetic"
+"317348017",1,"[D]Widespread diabetic foot gangrene"
+"905621000006113",1,"[RFC] Diabetes"
+"908831000006118",1,"[RFC] Diabetes mellitus"
+"910501000006113",1,"[RFC] Diabetic foot ulcer"
+"906711000006116",1,"[RFC] Diabetic foot/leg ulcer"
+"910491000006117",1,"[RFC] Diabetic leg ulcer"
+"377001000006117",1,"[X]Diabetes mellitus"
+"305158015",1,"Diabetic glomerulopathy"
+"308110013",1,"Pre-existing diabetes mellitus"
+"293759015",1,"Diabetic renal disease"
+"12703991000006112",1,NA
+"356119011",1,"Abnormal metabolic state in diabetes mellitus"
+"3636752017",1,"Acute complication co-occurrent and due to diabetes mellitus"
+"3636751012",1,"Acute complication with diabetes mellitus"
+"297550019",1,"Acute painful diabetic neuropathy"
+"297755010",1,"Advanced diabetic maculopathy"
+"455408014",1,"Advanced diabetic retinal disease"
+"12220691000006114",1,NA
+"12220701000006114",1,NA
+"12224581000006118",1,NA
+"12224591000006115",1,NA
+"7966931000006114",1,"Angina associated with type 2 diabetes mellitus"
+"7966941000006116",1,NA
+"297552010",1,"Asymptomatic diabetic neuropathy"
+"12220661000006118",1,NA
+"12220671000006113",1,NA
+"456686014",1,"Attending diabetes clinic"
+"285751016",1,"Attends diabetes monitoring"
+"1858811000006114",1,"AURAS-AF - consider the patient to have diabetes"
+"12186021000006113",1,NA
+"1230890017",1,"Autonomic neuropathy due to diabetes"
+"12186011000006117",1,NA
+"1785332013",1,"Background diabetic retinopathy"
+"6515211000006114",1,"BDR - Background diabetic retinopathy"
+"19931010",1,"Brittle diabetes"
+"2683561000006119",1,"Brittle diabetes mellitus"
+"5754581000006110",1,"Brittle type 1 diabetes mellitus"
+"5754611000006119",1,NA
+"12183221000006110",1,NA
+"12336121000006110",1,NA
+"12332111000006115",1,NA
+"12183231000006113",1,NA
+"12336111000006119",1,NA
+"12332101000006118",1,NA
+"308360012",1,"Cellulitis in diabetic foot"
+"297551015",1,"Chronic painful diabetic neuropathy"
+"354508018",1,"Clinical diabetic nephropathy"
+"12085941000006117",1,NA
+"12085951000006115",1,NA
+"12085911000006116",1,NA
+"12085901000006119",1,NA
+"12085931000006110",1,NA
+"12085921000006112",1,"Clinically significant macular oedema of left eye due to diabetes mellitus"
+"12085891000006118",1,"Clinically significant macular oedema of right eye co-occurrent and due to diabetes mellitus"
+"12705021000006112",1,"Clinically significant macular oedema of right eye due to diabetes mellitus"
+"6964251000006119",1,NA
+"5109831000006114",1,NA
+"356115017",1,NA
+"881491000006119",1,"Diabetes + eye manifestation"
+"881481000006117",1,"Diabetes + nephropathy"
+"881501000006110",1,"Diabetes + neuropathy"
+"881521000006117",1,"Diabetes + other complications"
+"881511000006113",1,"Diabetes + periph.circulat.dis"
+"216195015",1,"Diabetes care by hospital only"
+"2548271013",1,"Agreeing on diabetes care plan"
+"264726017",1,"Diabetes management plan given"
+"1488441010",1,"Diabetes medication review"
+"292496015",1,"Diabetes mellitus with nephropathy NOS"
+"121589010",1,"Diabetes mellitus"
+"881441000006111",1,"Diabetes mellitus - juvenile"
+"616151000006118",1,"Diabetes mellitus - unspec whether in pregnancy/puerperium"
+"881451000006113",1,"Diabetes mellitus -adult onset"
+"1220321013",1,"Diabetes mellitus arising in pregnancy"
+"10928019",1,"Diabetes mellitus associated with genetic syndrome"
+"483882011",1,"Maturity-onset diabetes of the young"
+"840971000006112",1,"Diabetes mellitus autosomal dominant type II"
+"3291658019",1,NA
+"6763751000006119",1,NA
+"6837991000006112",1,NA
+"1823921000006119",1,"Diabetes mellitus confirmed"
+"125705011",1,"Diabetes mellitus due to insulin receptor antibodies"
+"306108017",1,"Diabetes mellitus during pregnancy - baby delivered"
+"306110015",1,"Diabetes mellitus during pregnancy - baby not yet delivered"
+"616191000006112",1,"Diabetes mellitus during pregnancy, childbirth and the puerperium"
+"9324881000006117",1,NA
+"9324871000006115",1,NA
+"3748251000006115",1,"Diabetes mellitus in mother complicating pregnancy, childbirth AND/OR puerperium"
+"616211000006113",1,"Diabetes mellitus in pregnancy/childbirth/puerperium NOS"
+"616221000006117",1,"Diabetes mellitus in the puerperium - baby delivered during previous episode of care"
+"616231000006119",1,"Diabetes mellitus in the puerperium - baby delivered during current episode of care"
+"2160090014",1,"Diabetes mellitus induced by non-steroid drugs"
+"616241000006112",1,"Diabetes mellitus induced by steroids"
+"292484010",1,"Hyperosmolar coma associated with diabetes mellitus"
+"292479016",1,"Diabetes mellitus NOS with ketoacidosis"
+"292489017",1,"Diabetes mellitus NOS with ketoacidotic coma"
+"292512019",1,"Diabetes mellitus NOS with neurological manifestation"
+"292475010",1,"Diabetes mellitus NOS with no mention of complication"
+"292503016",1,"Diabetes mellitus NOS with ophthalmic manifestation"
+"12730981000006113",1,NA
+"292621010",1,"Diabetes mellitus NOS with other specified manifestation"
+"292523015",1,"Diabetes mellitus NOS with peripheral circulatory disorder"
+"292626017",1,"Diabetic complication"
+"3253241000006117",1,"Diabetes mellitus type 1"
+"8022471000006114",1,NA
+"6965571000006111",1,NA
+"3209441000006114",1,"Diabetes mellitus type 2"
+"6979251000006110",1,NA
+"3253231000006110",1,"Diabetes mellitus type I"
+"3209431000006116",1,"Diabetes mellitus type II"
+"5505651000006113",1,"Diabetes mellitus uncontrolled"
+"616351000006115",1,"Diabetes mellitus with gangrene"
+"292480018",1,"Diabetes mellitus with hyperosmolar coma"
+"2622193012",1,"Diabetes mellitus with ketoacidosis"
+"616381000006111",1,"Diabetes mellitus with ketoacidotic coma"
+"616391000006114",1,"Nervous system disorder due to diabetes mellitus"
+"345487013",1,"Diabetes mellitus with neuropathy"
+"292466013",1,"Diabetes mellitus without complication"
+"616421000006118",1,"Eye disorder due to diabetes mellitus"
+"292617015",1,"Diabetes mellitus with other specified manifestation"
+"12730971000006110",1,NA
+"616441000006113",1,"Peripheral vascular disorder due to diabetes mellitus"
+"616451000006110",1,"Diabetes mellitus with polyneuropathy"
+"616461000006112",1,"Diabetes mellitus with renal manifestation"
+"292622015",1,"Diabetes mellitus with unspecified complication"
+"3862421000006116",1,NA
+"3862341000006115",1,NA
+"616481000006119",1,"Diabetes mellitus, adult onset, + neurological manifestation"
+"616491000006116",1,"Diabetes mellitus, adult onset, + ophthalmic manifestation"
+"616501000006112",1,"Disorder due to type 2 diabetes mellitus"
+"616511000006110",1,"Diabetes mellitus, adult onset, no mention of complication"
+"292483016",1,"Diabetes mellitus, adult onset, with hyperosmolar coma"
+"616531000006116",1,"Diabetes mellitus, adult onset, with ketoacidosis"
+"616541000006114",1,"Diabetes mellitus, adult onset, with ketoacidotic coma"
+"12718861000006118",1,NA
+"616551000006111",1,"Diabetes mellitus, adult onset, with renal manifestation"
+"616561000006113",1,"Diabetes mellitus, adult with gangrene"
+"616571000006118",1,"Diabetes mellitus, adult, + other specified manifestation"
+"616581000006115",1,"Diabetes mellitus, adult, + peripheral circulatory disorder"
+"616591000006117",1,"Diabetes mellitus, juvenile +peripheral circulatory disorder"
+"616601000006113",1,"Diabetes mellitus, juvenile type, + ophthalmic manifestation"
+"616611000006111",1,"Disorder due to type 1 diabetes mellitus"
+"616621000006115",1,"Type 1 diabetes mellitus without complication"
+"292482014",1,"Diabetes mellitus, juvenile type, with hyperosmolar coma"
+"616641000006110",1,"Diabetes mellitus, juvenile type, with ketoacidosis"
+"616651000006112",1,"Diabetes mellitus, juvenile type, with ketoacidotic coma"
+"616661000006114",1,"Diabetes mellitus, juvenile type, with renal manifestation"
+"616671000006119",1,"Diabetes mellitus, juvenile, + neurological manifestation"
+"616681000006116",1,"Diabetes mellitus, juvenile, + other specified manifestation"
+"8059281000006116",1,NA
+"1856641000006113",1,"Diabetes monitoring in primary care"
+"1856651000006110",1,"Diabetes monitoring in secondary care"
+"8059261000006114",1,NA
+"2117891000000114",1,"Diabetes self-management plan agreed"
+"2115761000000117",1,"Diabetes self-management plan review"
+"479511000000117",1,"Diabetes type 1 review"
+"6980441000006114",1,NA
+"6961101000006114",1,NA
+"6951091000006110",1,"Diabetes type 1 with ketoacidosis"
+"6972451000006115",1,NA
+"6960441000006112",1,NA
+"5109461000006115",1,"Diabetes type 2 on insulin"
+"479571000000110",1,"Diabetes type 2 review"
+"6959811000006110",1,NA
+"6977431000006113",1,NA
+"6969931000006116",1,"Diabetes type 2 with neurological disorder"
+"6982521000006119",1,"Diabetes type 2 with retinopathy"
+"8084961000006111",1,"Diabetes type II review"
+"881471000006115",1,"Diabetes with coma"
+"932641000006116",1,"Diabetes with coma"
+"616831000006118",1,"Diabetes with gangrene"
+"4392211000006114",1,NA
+"1854821000006113",1,NA
+"2287311000000111",1,"Diabetes Year of Care annual review"
+"881461000006110",1,"Diabetes+ketoacidosis -no coma"
+"845341000006111",1,"Diabetes: shared care in pregnancy - diabetologist and obstetrician"
+"4636711000006116",1,NA
+"264724019",1,"Diabetes: shared care programme"
+"264717015",1,"Diabetic - cooperative patient"
+"1859611000006117",1,NA
+"264719017",1,"Diabetic - follow-up default"
+"264707013",1,"Diabetic - good control"
+"856531000006119",1,"Diabetic - GP eye check"
+"856551000006114",1,"Diabetic - hospital eye check"
+"616891000006119",1,"Diabetic - moderate control"
+"401531012",1,"Diabetic - poor control"
+"264716012",1,"Diabetic - poor control NOS"
+"1954041000006119",1,"Diabetic - uses carbohydrate counting"
+"1876341000006117",1,"Diabetic 3 month review"
+"299261000000111",1,"Diabetic 6 month review"
+"6953891000006119",1,"Diabetic acidosis"
+"2920971000006115",1,NA
+"65526011",1,"Diabetic amyotrophy"
+"616921000006113",1,"Diabetic amyotrophy"
+"7966951000006119",1,NA
+"264727014",1,"Diabetic annual review"
+"1842001000006118",1,"Diabetic annual review by practice nurse"
+"1734721000000114",1,"Assessment of diabetic erectile dysfunction"
+"3319861000006118",1,"Diabetic autonomic neuropathy"
+"2500921000000110",1,"Diabetic carbohydrate counting diet"
+"73294018",1,"Diabetic cataract"
+"12702361000006111",1,NA
+"12702391000006115",1,NA
+"6980431000006116",1,NA
+"6959801000006112",1,NA
+"616971000006114",1,"Diabetic Charcot's arthropathy"
+"4808891000006119",1,NA
+"309737011",1,"Diabetic cheiroarthropathy"
+"309738018",1,"Diabetic cheiropathy"
+"2920981000006117",1,"Diabetic coma"
+"2920961000006110",1,NA
+"282568013",1,"Diabetic crisis monitoring"
+"1696331000006114",1,"Diabetic dermopathy"
+"250447011",1,"Diabetic diet"
+"63021000000116",1,"Good compliance with diabetic diet"
+"12489361000006112",1,NA
+"63041000000111",1,"Poor compliance with diabetic diet"
+"12489351000006110",1,NA
+"1658821000000117",1,"Diabetic dietary review"
+"1658941000000115",1,"Diabetic dietary review declined"
+"7741101000006113",1,"Diabetic embryopathy"
+"4723641000006110",1,NA
+"1734281000000117",1,"Diabetic erectile dysfunction review"
+"2900951000006115",1,"Diabetic eye disease"
+"5634901000006116",1,"Diabetic foot"
+"1780386019",1,"Diabetic foot examination"
+"1960611000006113",1,"Diabetic foot examination - action required"
+"1960621000006117",1,"Diabetic foot examination - no action required"
+"1488405010",1,"Diabetic foot risk assessment"
+"617041000006117",1,"Diabetic Foot Risk Assessment"
+"856561000006111",1,NA
+"692951000000111",1,"Diabetic foot screen"
+"4808881000006117",1,"Diabetic hand syndrome"
+"454092018",1,"Diabetic hyperosmolar non-ketotic state"
+"297964010",1,"Diabetic iritis"
+"6953861000006110",1,"Diabetic ketoacidosis"
+"178798017",1,"Diabetic ketoacidosis without coma"
+"12180791000006114",1,"Diabetic lumbosacral plexopathy"
+"3128741000006119",1,NA
+"6022931000006112",1,"Diabetic macular edema"
+"6022921000006114",1,"Diabetic macular oedema"
+"347657010",1,"Diabetic maculopathy"
+"12086331000006116",1,"Diabetic maculopathy of left eye"
+"12086281000006113",1,"Diabetic maculopathy of right eye"
+"7851731000006116",1,"Diabetic mastopathy"
+"2160025013",1,"Diabetic medicine"
+"1713371000006112",1,"Diabetic medicine"
+"264676010",1,"Diabetic monitoring"
+"301641000000117",1,"Diabetes monitoring higher risk albumin excretion"
+"12490181000006112",1,NA
+"301611000000118",1,"Diabetes monitoring lower risk albumin excretion"
+"12490171000006114",1,NA
+"264729012",1,"Diabetic monitoring NOS"
+"297492014",1,"Diabetic mononeuritis multiplex"
+"297510017",1,"Diabetic mononeuritis NOS"
+"345492010",1,"Diabetic mononeuropathy"
+"205225016",1,"Diabetic nephropathy"
+"6983521000006113",1,NA
+"4808921000006113",1,"Diabetic neuropathic arthropathy"
+"8022461000006119",1,NA
+"345486016",1,"Diabetic neuropathy"
+"12704401000006110",1,"Diabetic oculopathy"
+"12762301000006111",1,NA
+"12704961000006118",1,NA
+"6983691000006114",1,NA
+"3537388019",1,NA
+"12702381000006118",1,"Diabetic oculopathy due to type I diabetes mellitus"
+"264679015",1,"Diabetic on diet only"
+"264682013",1,"Diabetic on insulin"
+"1966321000006112",1,"Diabetic on insulin and glucagon-like peptide 1 receptor agonist"
+"458512016",1,"Diabetic on insulin and oral treatment"
+"1780981000006115",1,"Diabetic on non-insulin injectable"
+"2460251000000115",1,"Diabetic on non-insulin injectable medication"
+"264681018",1,"Diabetic on oral treatment"
+"1966311000006116",1,"Diabetic on oral treatment and glucagon-like peptide 1 receptor agonist"
+"1177721000000112",1,"Diabetic on subcutaneous treatment"
+"2549901010",1,"Diabetic patient unsuitable for digital retinal photography"
+"302011",1,"Diabetic peripheral angiopathy"
+"6980041000006115",1,NA
+"2415191000000113",1,"Diabetic peripheral neuropathic pain"
+"1780286017",1,"Diabetic peripheral neuropathy screening"
+"4392201000006111",1,NA
+"82373015",1,"Diabetic polyneuropathy"
+"12491561000006117",1,NA
+"7861581000006118",1,"Diabetic radiculoplexus neuropathy"
+"2906401000006113",1,"Diabetic retinal microaneurysm"
+"6630591000006111",1,"Diabetic retinal venous beading"
+"9093013",1,"Diabetic retinopathy"
+"2159948010",1,"Diabetic retinopathy 12 month review"
+"2159949019",1,"Diabetic retinopathy 6 month review"
+"12704951000006115",1,NA
+"12704981000006111",1,NA
+"6960431000006119",1,NA
+"6982511000006110",1,NA
+"297758012",1,"Diabetic retinopathy NOS"
+"1804191000006114",1,"Diabetic retinopathy screen done by optician"
+"216201011",1,"Diabetic retinopathy screening"
+"1704651000006111",1,"Diabetic retinopathy screening administrative status"
+"2159960011",1,"Diabetic retinopathy screening not indicated"
+"12121381000006114",1,"Diabetic retinopathy screening offered"
+"2548205017",1,"Diabetic retinopathy screening offered"
+"2474671011",1,"Diabetic retinopathy screening refused"
+"356121018",1,"Diabetic severe hyperglycaemia"
+"5109901000006112",1,NA
+"1839671000006113",1,"Diabetic short review"
+"6985411000006117",1,"Diabetic skin ulcer"
+"264705017",1,"Diabetic treatment changed"
+"459695017",1,"Diabetic weight reducing diet"
+"264718013",1,"Diabetic-uncooperative patient"
+"4636411000006110",1,"Diet controlled diabetes mellitus"
+"3712861000006110",1,NA
+"6961901000006111",1,NA
+"6982151000006118",1,NA
+"12174811000006112",1,NA
+"12370281000006118",1,NA
+"12336881000006117",1,NA
+"12370271000006116",1,NA
+"12336871000006115",1,NA
+"12218501000006114",1,NA
+"12086341000006114",1,NA
+"12221241000006112",1,NA
+"12336861000006110",1,NA
+"12086301000006112",1,NA
+"6953901000006115",1,"DKA - diabetic ketoacidosis"
+"12180761000006118",1,NA
+"3690681000006114",1,"DM - Diabetes mellitus"
+"8343301000006117",1,NA
+"2576431000006117",1,"DR - Diabetic retinopathy"
+"9986011",1,"Drug-induced diabetes mellitus"
+"5211000033113",1,NA
+"730411000000115",1,"Eligible for diabetic retinopathy screening"
+"640011000006114",1,"Emergency Diabetic Admission since last appointment"
+"2380481000000115",1,"Enquiry about diabetic erectile dysfunction declined"
+"2243331000000115",1,"Erectile dysfunction due to diabetes mellitus"
+"12705001000006119",1,NA
+"12705011000006116",1,NA
+"6954991000006112",1,NA
+"6977971000006119",1,NA
+"12331231000006110",1,NA
+"12335681000006111",1,NA
+"12331221000006112",1,NA
+"12335671000006113",1,NA
+"12174801000006114",1,NA
+"764201000006110",1,"Foot abnormality - diabetes related"
+"764191000006112",1,"Foot abnormality - diabetes related"
+"6987011000006115",1,NA
+"6961081000006118",1,"Gangrene associated with type 1 diabetes mellitus"
+"6975211000006112",1,NA
+"6961091000006115",1,NA
+"6975221000006116",1,NA
+"12363671000006118",1,NA
+"12363691000006117",1,NA
+"7708051000006112",1,"Gastroparesis due to diabetes mellitus type I"
+"7708071000006119",1,NA
+"12705071000006113",1,"Gastroparesis due to type 1 diabetes mellitus"
+"12705081000006111",1,"Gastroparesis due to type 2 diabetes mellitus"
+"12363661000006113",1,NA
+"12363681000006115",1,NA
+"2686101000006116",1,"GDM - Gestational diabetes mellitus"
+"498512013",1,"Genetic syndromes of diabetes mellitus"
+"2686071000006114",1,"Gestational diabetes"
+"1703761000000114",1,"Gestational diabetes information leaflet given"
+"20191016",1,"Gestational diabetes mellitus"
+"801901000006119",1,"Gestational diabetes mellitus"
+"1786841000006118",1,NA
+"2128081000000111",1,"Gestational diabetes mellitus annual review"
+"8016621000006116",1,"Gestational diabetes mellitus complicating pregnancy"
+"3719631000006112",1,"Gestational diabetes mellitus, class A>1<"
+"3258001000006116",1,"Gestational diabetes mellitus, class A>2<"
+"8016611000006112",1,"Gestational diabetes, delivered"
+"7746161000006117",1,NA
+"7644681000006117",1,NA
+"4600881000006113",1,NA
+"4595351000006114",1,NA
+"4595381000006118",1,NA
+"4595301000006110",1,NA
+"4595261000006118",1,NA
+"264693010",1,"Has seen dietician - diabetes"
+"4636471000006118",1,"Has seen dietitian - diabetes"
+"404444016",1,"Haemoglobin A1C - diabetic control interpretation"
+"257623014",1,"Hb. A1C - diabetic control"
+"453910015",1,"Haemoglobin A1C - diabetic control finding"
+"4595341000006112",1,NA
+"4595401000006118",1,NA
+"4595291000006114",1,NA
+"6280411000006114",1,NA
+"5513671000006116",1,NA
+"4595331000006119",1,NA
+"4595391000006115",1,NA
+"11926761000006112",1,NA
+"841011000006112",1,"Severe nonproliferative diabetic retinopathy"
+"454093011",1,"HONKS - Diabetic hyperosmolar non-ketotic state"
+"2817479019",1,"Hyperglycaemic crisis in diabetes mellitus"
+"7253221000006117",1,NA
+"8120401000006111",1,"Hyperosmolar coma due to secondary diabetes mellitus"
+"1488898011",1,"Hyperosmolar non-ketotic state in type 2 diabetes mellitus"
+"850691000006118",1,"Hyperosmolar non-ketotic state in type 2 diabetes mellitus"
+"1667891000000113",1,"Hyperosmolar non-ketotic state in type II diabetes mellitus"
+"8118151000006112",1,"Hyperosmolarity co-occurrent and due to drug induced diabetes mellitus"
+"933231000006118",1,"Hypo states in diabetes"
+"7783451000006114",1,NA
+"5110071000006112",1,"Hypoglycaemic event in diabetes"
+"11927561000006118",1,NA
+"5110081000006110",1,"Hypoglycemic event in diabetes"
+"787111000006112",1,"IDDM-Insulin dependent diabetes mellitus"
+"733161000000116",1,"Impaired vision due to diabetic retinopathy"
+"189841000000113",1,"Informed dissent for diabetes national audit"
+"264677018",1,"Initial diabetic assessment"
+"777231000006119",1,"Diabetic monitoring - injection sites"
+"772151000006116",1,"Insulin dependent diabetes maturity onset"
+"913711000006112",1,"Insulin dependent diabetes maturity onset"
+"77727018",1,"Insulin dependent diabetes mellitus"
+"772161000006119",1,"Insulin dependent diabetes mellitus"
+"772171000006114",1,"Insulin dependent diabetes mellitus"
+"913681000006111",1,"Insulin dependent diabetes mellitus - poor control"
+"772181000006112",1,"Insulin dependent diabetes mellitus - poor control"
+"6051171000006117",1,NA
+"459293018",1,"Insulin dependent diabetes mellitus with arthropathy"
+"771331000006116",1,"Insulin dependent diabetes mellitus with arthropathy"
+"913891000006113",1,"Insulin dependent diabetes mellitus with diabetic cataract"
+"771341000006114",1,"Insulin dependent diabetes mellitus with diabetic cataract"
+"913621000006112",1,"Insulin dependent diabetes mellitus with gangrene"
+"771351000006111",1,"Insulin dependent diabetes mellitus with gangrene"
+"6050041000006115",1,NA
+"771361000006113",1,"Insulin dependent diabetes mellitus with hypoglycaemic coma"
+"459162010",1,"Insulin dependent diabetes mellitus with hypoglycaemic coma"
+"6050071000006111",1,NA
+"913771000006115",1,"Insulin dependent diabetes mellitus with mononeuropathy"
+"771371000006118",1,"Insulin dependent diabetes mellitus with mononeuropathy"
+"913531000006111",1,"Insulin dependent diabetes mellitus with multiple complicat"
+"771381000006115",1,"Insulin dependent diabetes mellitus with multiple complicatn"
+"913831000006114",1,"Insulin dependent diabetes mellitus with nephropathy"
+"771391000006117",1,"Insulin dependent diabetes mellitus with nephropathy"
+"771401000006115",1,"Insulin dependent diabetes mellitus with polyneuropathy"
+"913801000006118",1,"Insulin dependent diabetes mellitus with polyneuropathy"
+"913651000006115",1,"Insulin dependent diabetes mellitus with retinopathy"
+"771411000006117",1,"Insulin dependent diabetes mellitus with retinopathy"
+"11927551000006115",1,NA
+"771421000006113",1,"Insulin dependent diabetes mellitus with ulcer"
+"913591000006110",1,"Skin ulcer associated with diabetes mellitus"
+"1223148019",1,"Insulin treated non-insulin dependent diabetes mellitus"
+"914391000006116",1,"Insulin treated Type 2 diabetes mellitus"
+"840951000006119",1,"Insulin treated Type 2 diabetes mellitus"
+"1223147012",1,"Insulin treated Type II diabetes mellitus"
+"841351000006110",1,"Insulin treated Type II diabetes mellitus"
+"4758121000006115",1,"Insulin-dependent diabetes maturity onset"
+"5109851000006119",1,NA
+"356111014",1,"Insulin-dependent diabetes mellitus secretory diarrhoea syndrome"
+"913501000006115",1,"Insulin-dependent diabetes mellitus with neurological comps"
+"771481000006112",1,"Insulin-dependent diabetes mellitus with neurological comps"
+"913471000006110",1,"Insulin-dependent diabetes mellitus with ophthalmic comps"
+"771491000006110",1,"Insulin-dependent diabetes mellitus with ophthalmic comps"
+"771501000006119",1,"Insulin-dependent diabetes mellitus with renal complications"
+"913441000006119",1,"Insulin-dependent diabetes mellitus with renal complications"
+"4758061000006110",1,NA
+"6030001000006116",1,"Insulin-dependent diabetes without complication"
+"457327017",1,"Insulin-dependent diabetes without complication"
+"746791000006111",1,"Insulin-dependent diabetes without complication"
+"12220711000006112",1,NA
+"12220721000006116",1,NA
+"309177010",1,"Ischaemic ulcer diabetic foot"
+"4807571000006117",1,NA
+"6953871000006115",1,"Ketoacidosis in diabetes mellitus"
+"6951081000006112",1,NA
+"6977421000006110",1,"Ketoacidosis in type II diabetes mellitus"
+"12704991000006114",1,"Ketoacidotic coma in type 2 diabetes mellitus"
+"6965561000006116",1,NA
+"6980001000006117",1,NA
+"6951281000006117",1,NA
+"12218511000006112",1,NA
+"5754621000006110",1,NA
+"856611000006114",1,"Laser treated diabetic retinopathy"
+"2674067015",1,"Latent autoimmune diabetes mellitus in adult"
+"856651000006110",1,"Left advanced diabetic retinal disease"
+"856661000006112",1,"Left diabetic foot active ulceration"
+"856671000006117",1,"Left diabetic foot high risk"
+"856691000006116",1,"Left diabetic foot low current risk"
+"856681000006119",1,"Left diabetic foot moderate risk"
+"856641000006113",1,"Left diabetic maculopathy"
+"856631000006115",1,"Left laser treated diabetic retinopathy"
+"857031000006113",1,"Left non-proliferative diabetic retinopathy"
+"857051000006118",1,"Left preproliferative diabetic retinopathy"
+"856621000006118",1,"Left proliferative diabetic retinopathy"
+"7863801000006113",1,"Lumbosacral plexopathy co-occurrent and due to diabetes mellitus"
+"12491571000006112",1,NA
+"7863811000006111",1,"Lumbosacral plexopathy with diabetes mellitus"
+"12491581000006110",1,NA
+"12180781000006111",1,NA
+"12180771000006113",1,NA
+"12224821000006119",1,NA
+"12224831000006116",1,NA
+"12224811000006110",1,NA
+"12224841000006114",1,NA
+"12221251000006114",1,NA
+"12086321000006119",1,NA
+"12086291000006111",1,NA
+"12221261000006111",1,NA
+"2575281000006111",1,"Maternal diabetes mellitus with hypoglycaemia affecting fetus OR newborn"
+"2575261000006118",1,"Maternal diabetes mellitus with hypoglycaemia affecting foetus OR newborn"
+"2575271000006113",1,"Maternal diabetes mellitus with hypoglycemia affecting fetus OR newborn"
+"2843291000006110",1,"Maternal diabetes syndrome"
+"2686081000006112",1,NA
+"622221000000118",1,"Maternally inherited diabetes mellitus"
+"223291000000111",1,"Maturity onset diabetes"
+"483886014",1,"Maturity onset diabetes in youth"
+"2476117016",1,"Maturity onset diabetes in youth type 1"
+"356085010",1,"Maturity onset diabetes in youth type 2"
+"5109581000006112",1,NA
+"1968641000006114",1,"Maturity-onset diabetes of the young, type 5"
+"7500191000006118",1,"Maturity onset diabetes of the young, type 1"
+"5109561000006119",1,"Maturity onset diabetes of the young, type 2"
+"356110010",1,"Megaloblastic anaemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness"
+"5109801000006118",1,NA
+"309180011",1,"Mixed diabetic ulcer - foot"
+"5109621000006112",1,"MODY - Maturity onset diabetes glucokinase-related"
+"5109611000006116",1,"MODY - Maturity onset diabetes in youth type 2"
+"5109591000006110",1,NA
+"7500341000006113",1,NA
+"12220641000006117",1,NA
+"12220651000006115",1,NA
+"12702371000006116",1,NA
+"12702401000006118",1,NA
+"6962751000006117",1,NA
+"6954121000006112",1,NA
+"12221151000006118",1,NA
+"12332761000006118",1,NA
+"12331061000006114",1,NA
+"12332751000006115",1,NA
+"12331051000006112",1,NA
+"6986151000006117",1,NA
+"4788421000006117",1,NA
+"303846016",1,"Nephrotic syndrome in diabetes mellitus"
+"12336851000006113",1,NA
+"6983511000006117",1,NA
+"12704391000006113",1,NA
+"12704971000006113",1,"Neurologic disorder associated with type 2 diabetes mellitus"
+"6969921000006119",1,NA
+"12704941000006117",1,NA
+"6972441000006117",1,NA
+"12334621000006111",1,NA
+"12334131000006118",1,NA
+"12334141000006111",1,NA
+"12334611000006115",1,NA
+"8022441000006118",1,NA
+"309179013",1,"Neuropathic diabetic ulcer - foot"
+"12221111000006119",1,NA
+"2014951000006115",1,"New diabetic foot ulcer"
+"1694761000006113",1,"Newly diagnosed diabetes"
+"493773010",1,"NIDDM - Non-insulin dependent diabetes mellitus"
+"1484867016",1,"Non proliferative diabetic retinopathy"
+"281161000006114",1,"Non-insulin depend diabetes mellitus with diabetic cataract"
+"73466011",1,"Non-insulin dependent diabetes mellitus"
+"280571000006116",1,"Non-insulin dependent diabetes mellitus"
+"281171000006119",1,"Type II diabetes mellitus uncontrolled"
+"459309011",1,"Non-insulin dependent diabetes mellitus with arthropathy"
+"281211000006117",1,"Gangrene associated with type 2 diabetes mellitus"
+"280511000006113",1,"Non-insulin dependent diabetes mellitus with hypoglyca coma"
+"280521000006117",1,"Non-insulin dependent diabetes mellitus with mononeuropathy"
+"280531000006119",1,"Non-insulin dependent diabetes mellitus with nephropathy"
+"280541000006112",1,"Non-insulin dependent diabetes mellitus with polyneuropathy"
+"280551000006114",1,"Non-insulin-dependent diabetes mellitus with ulcer"
+"280581000006118",1,"Non-insulin-dependent diabetes mellitus with multiple complications"
+"280591000006115",1,"Non-insulin-dependent diabetes mellitus with neuro comps"
+"587111000006111",1,"Non-insulin-dependent diabetes mellitus with ophthalm comps"
+"587521000006111",1,"Non-insulin-dependent diabetes mellitus with renal comps"
+"641581000006115",1,"Non-insulin-dependent diabetes mellitus with retinopathy"
+"457328010",1,"Non-insulin-dependent diabetes mellitus without complication"
+"6981271000006112",1,NA
+"6515171000006112",1,"Nonproliferative diabetic retinopathy"
+"12295441000006116",1,NA
+"6515201000006111",1,"NPDR - Non proliferative diabetic retinopathy"
+"1484888013",1,"O/E - diabetic maculopathy absent both eyes"
+"1484887015",1,"O/E - diabetic maculopathy present both eyes"
+"2532976019",1,"O/E - left chronic diabetic foot ulcer"
+"1488396017",1,"O/E - Left diabetic foot - ulcerated"
+"1488398016",1,"O/E - Left diabetic foot at high risk"
+"1666911000000113",1,"O/E - Left diabetic foot at increased risk"
+"1488397014",1,"O/E - Left diabetic foot at low risk"
+"1488403015",1,"O/E - Left diabetic foot at moderate risk"
+"451411017",1,"O/E - Left diabetic foot at risk"
+"2159974016",1,"O/E - left eye background diabetic retinopathy"
+"2159980012",1,"Maculopathy of left eye with diabetes mellitus"
+"2159976019",1,"O/E - left eye preproliferative diabetic retinopathy"
+"2159978018",1,"O/E - left eye proliferative diabetic retinopathy"
+"975261000006113",1,"O/E - left eye stable treated proliferative diabetic retinopathy"
+"1484886012",1,"O/E - no left diabetic retinopathy"
+"1484883016",1,"O/E - no right diabetic retinopathy"
+"2532977011",1,"O/E - right chronic diabetic foot ulcer"
+"1488395018",1,"O/E - Right diabetic foot - ulcerated"
+"1488394019",1,"O/E - Right diabetic foot at high risk"
+"1666931000000117",1,"O/E - Right diabetic foot at increased risk"
+"1488393013",1,"O/E - Right diabetic foot at low risk"
+"1488404014",1,"O/E - Right diabetic foot at moderate risk"
+"451410016",1,"O/E - Right diabetic foot at risk"
+"2159973010",1,"O/E - right eye background diabetic retinopathy"
+"2159979014",1,"Maculopathy of right eye with diabetes mellitus"
+"2159975015",1,"O/E - right eye preproliferative diabetic retinopathy"
+"2159977011",1,"O/E - right eye proliferative diabetic retinopathy"
+"975251000006111",1,"O/E - right eye stable treated proliferative diabetic retinopathy"
+"2549896013",1,"O/E - sight threatening diabetic retinopathy"
+"6515471000006118",1,"On examination - diabetic maculopathy absent both eyes"
+"6515451000006111",1,NA
+"6866421000006113",1,NA
+"6546301000006118",1,NA
+"6546341000006116",1,"On examination - Left diabetic foot at high risk"
+"6546321000006111",1,"On examination - Left diabetic foot at low risk"
+"6546411000006113",1,"On examination - Left diabetic foot at moderate risk"
+"5975321000006113",1,NA
+"6761801000006113",1,"On examination - left eye background diabetic retinopathy"
+"6761841000006110",1,"On examination - left eye preproliferative diabetic retinopathy"
+"6761881000006116",1,"On examination - left eye proliferative diabetic retinopathy"
+"6866541000006117",1,"On examination - left eye stable treated proliferative diabetic retinopathy"
+"6515431000006116",1,"On examination - no left diabetic retinopathy"
+"6515391000006110",1,"On examination - no right diabetic retinopathy"
+"6866781000006116",1,"On examination - right chronic diabetic foot ulcer"
+"6546281000006117",1,"On examination - Right diabetic foot - ulcerated"
+"6546261000006110",1,"On examination - Right diabetic foot at high risk"
+"6546241000006111",1,"On examination - Right diabetic foot at low risk"
+"6546431000006119",1,"On examination - Right diabetic foot at moderate risk"
+"5975301000006115",1,NA
+"6761781000006114",1,"On examination - right eye background diabetic retinopathy"
+"6761821000006115",1,"On examination - right eye preproliferative diabetic retinopathy"
+"6761861000006114",1,"On examination - right eye proliferative diabetic retinopathy"
+"6866901000006111",1,"On examination - right eye stable treated proliferative diabetic retinopathy"
+"6910411000006112",1,NA
+"6968641000006111",1,NA
+"2900941000006117",1,NA
+"12725191000006116",1,NA
+"292488013",1,"Coma associated with diabetes mellitus"
+"292478012",1,"Other specified diabetes mellitus with ketoacidosis"
+"13751000006117",1,"Other specified diabetes mellitus with multiple comps"
+"13761000006115",1,"Other specified diabetes mellitus with neurological comps"
+"13771000006110",1,"Other specified diabetes mellitus with ophthalmic complicatn"
+"13781000006113",1,"Other specified diabetes mellitus with other spec comps"
+"13791000006111",1,"Other specified diabetes mellitus with periph circ comps"
+"292495016",1,"Other specified diabetes mellitus with renal complications"
+"13811000006110",1,"Other specified diabetes mellitus with unspecified comps"
+"2474726011",1,"Pan retinal photocoagulation for diabetes"
+"6837961000006116",1,"Panretinal photocoagulation for diabetes"
+"2159170012",1,"Patient on maximal tolerated therapy for diabetes"
+"12189891000006110",1,"PDR - proliferative diabetic retinopathy"
+"4392221000006118",1,"Peripheral angiopathy due to diabetes mellitus"
+"12704411000006113",1,"Peripheral circulatory disorder associated with diabetes mellitus"
+"6970621000006114",1,NA
+"6985001000006110",1,NA
+"6970631000006112",1,NA
+"6985011000006113",1,NA
+"8014491000006111",1,NA
+"12335981000006115",1,NA
+"12335991000006117",1,NA
+"6959091000006114",1,NA
+"6955501000006113",1,NA
+"6981621000006113",1,NA
+"12185431000006111",1,NA
+"12363721000006110",1,NA
+"12363731000006113",1,NA
+"12185421000006113",1,"Polyneuropathy due to diabetes mellitus"
+"7708121000006119",1,NA
+"7708091000006118",1,NA
+"214921000006116",1,"Polyneuropathy in diabetes"
+"8012901000006117",1,NA
+"8016601000006114",1,"Postpartum gestational diabetes mellitus"
+"4771421000006116",1,"PPDR - Preproliferative diabetic retinopathy"
+"4539551000006112",1,NA
+"8033301000006115",1,NA
+"8033291000006116",1,"Pre-existing diabetes mellitus in mother complicating childbirth"
+"7500211000006117",1,"Pre-existing diabetes mellitus in pregnancy"
+"306112011",1,"Pre-existing diabetes mellitus, insulin-dependent"
+"306113018",1,"Pre-existing diabetes mellitus, non-insulin-dependent"
+"213141000006111",1,"Pre-existing diabetes mellitus, unspecified"
+"306114012",1,"Pre-existing malnutrition-related diabetes mellitus"
+"2967831017",1,"Pre-existing type 1 diabetes mellitus in pregnancy"
+"4796321000006113",1,"Pre-existing type 2 diabetes mellitus"
+"11931861000006112",1,NA
+"1988741000006117",1,"Pregnancy and non-insulin-dependent diabetes mellitus"
+"887971000006115",1,"Preg.+ diabetes mellitus"
+"5110001000006118",1,"Pregnancy and type 2 diabetes mellitus"
+"12220681000006111",1,NA
+"98476015",1,"Proliferative diabetic retinopathy"
+"6022721000006112",1,"Proliferative diabetic retinopathy - high risk"
+"12189901000006114",1,NA
+"12189881000006112",1,NA
+"96244016",1,"Protein-deficient diabetes mellitus"
+"354509014",1,"Proteinuric diabetic nephropathy"
+"12491551000006119",1,NA
+"7861571000006116",1,NA
+"1850931000006111",1,"Reason for influenza vaccine - diabetes mellitus"
+"1776581000006117",1,"Reason for referral: Diabetes"
+"1966441000006113",1,"Recommendation to self-refer for diabetes structured education"
+"4392181000006110",1,NA
+"6979991000006111",1,NA
+"169731000006118",1,"Retinal abnormality - diabetes-related"
+"12166101000006119",1,NA
+"12332281000006119",1,NA
+"12336541000006114",1,NA
+"12166111000006116",1,"Retinopathy due to diabetes mellitus"
+"12332271000006117",1,NA
+"12336531000006116",1,NA
+"857441000006114",1,"Right advanced diabetic retinal disease"
+"857691000006119",1,"Right diabetic foot active ulceration"
+"857721000006112",1,"Right diabetic foot high risk"
+"857761000006118",1,"Right diabetic foot low current risk"
+"857741000006117",1,"Right diabetic foot moderate risk"
+"857431000006116",1,"Right diabetic maculopathy"
+"857421000006119",1,"Right laser treated diabetic retinopathy"
+"857971000006110",1,"Right non-proliferative diabetic retinopathy"
+"857981000006113",1,"Right preproliferative diabetic retinopathy"
+"857411000006110",1,"Right proliferative diabetic retinopathy"
+"15518018",1,"Secondary diabetes mellitus"
+"189721000000113",1,"Secondary diabetes mellitus without complication"
+"12224751000006117",1,NA
+"987441000006113",1,"Six month diabetic review"
+"6985421000006113",1,NA
+"127041000006110",1,"Steroid-induced diabetes"
+"127051000006112",1,"Steroid-induced diabetes mellitus without complication"
+"3636331010",1,NA
+"12451081000006113",1,NA
+"112841000006113",1,"Syndrome of infant of mother with gestational diabetes"
+"197984010",1,"Type 1 diabetes mellitus"
+"84281000006115",1,"Type 1 diabetes mellitus"
+"84291000006117",1,"Type 1 diabetes mellitus - poor control"
+"292548017",1,"Type 1 diabetes mellitus - poor control"
+"2288041000000110",1,"Type 1 diabetes mellitus in remission"
+"84301000006116",1,"Type 1 diabetes mellitus maturity onset"
+"292553010",1,"Type 1 diabetes mellitus maturity onset"
+"7287611000006113",1,"Type 1 diabetes mellitus uncontrolled"
+"84311000006118",1,"Type 1 diabetes mellitus with arthropathy"
+"459292011",1,"Type 1 diabetes mellitus with arthropathy"
+"913901000006112",1,"Type 1 diabetes mellitus with diabetic cataract"
+"84321000006114",1,"Type 1 diabetes mellitus with diabetic cataract"
+"938301000006114",1,"Exudative maculopathy with type 1 diabetes mellitus"
+"292541011",1,"Type 1 diabetes mellitus with gangrene"
+"84331000006112",1,"Type 1 diabetes mellitus with gangrene"
+"299601000000114",1,"Gastroparesis with type 1 diabetes mellitus"
+"4757991000006116",1,NA
+"459161015",1,"Type 1 diabetes mellitus with hypoglycaemic coma"
+"84341000006119",1,"Type 1 diabetes mellitus with hypoglycaemic coma"
+"6050081000006114",1,NA
+"928501000006119",1,"Ketoacidosis in type 1 diabetes mellitus"
+"928521000006112",1,"Ketoacidotic coma in type 1 diabetes mellitus"
+"84351000006117",1,NA
+"913781000006117",1,"Type 1 diabetes mellitus with mononeuropathy"
+"84361000006115",1,"Type 1 diabetes mellitus with multiple complications"
+"913541000006118",1,"Type 1 diabetes mellitus with multiple complications"
+"84371000006110",1,"Type 1 diabetes mellitus with nephropathy"
+"913841000006116",1,"Renal disorder associated with type 1 diabetes mellitus"
+"913511000006117",1,"Type 1 diabetes mellitus with neurological complications"
+"84381000006113",1,"Type 1 diabetes mellitus with neurological complications"
+"459296014",1,"Type 1 diabetes mellitus with neuropathic arthropathy"
+"84391000006111",1,"Type 1 diabetes mellitus with neuropathic arthropathy"
+"913481000006113",1,"Type 1 diabetes mellitus with ophthalmic complications"
+"84401000006113",1,"Type 1 diabetes mellitus with ophthalmic complications"
+"913931000006116",1,"Type 1 diabetes mellitus with peripheral angiopathy"
+"84411000006111",1,NA
+"1780311019",1,"Type 1 diabetes mellitus with persistent microalbuminuria"
+"928461000006119",1,"Persistent proteinuria associated with type 1 diabetes mellitus"
+"84421000006115",1,"Type 1 diabetes mellitus with polyneuropathy"
+"913811000006115",1,"Type 1 diabetes mellitus with polyneuropathy"
+"913451000006117",1,"Type 1 diabetes mellitus with renal complications"
+"84431000006117",1,"Type 1 diabetes mellitus with renal complications"
+"913661000006118",1,"Retinopathy with type 1 diabetes mellitus"
+"84441000006110",1,"Type 1 diabetes mellitus with retinopathy"
+"84451000006112",1,"Type 1 diabetes mellitus with ulcer"
+"292540012",1,"Type 1 diabetes mellitus with ulcer"
+"84461000006114",1,"Type 1 diabetes mellitus without complication"
+"457326014",1,"Type 1 diabetes mellitus without complication"
+"1665751000000119",1,"Type 1 diabetic dietary review"
+"84471000006119",1,"Type 2 diabetes mellitus"
+"197761014",1,"Type 2 diabetes mellitus"
+"84481000006116",1,"Type 2 diabetes mellitus - poor control"
+"292590011",1,"Type II diabetes mellitus poorly controlled"
+"2288071000000116",1,"Type 2 diabetes mellitus in remission"
+"7281511000006118",1,"Type 2 diabetes mellitus uncontrolled"
+"84491000006118",1,"Type 2 diabetes mellitus with arthropathy"
+"459310018",1,"Type 2 diabetes mellitus with arthropathy"
+"84501000006114",1,"Type 2 diabetes mellitus with diabetic cataract"
+"914301000006111",1,"Type 2 diabetes mellitus with diabetic cataract"
+"938321000006116",1,"Exudative maculopathy associated with type 2 diabetes mellitus"
+"292583018",1,"Type 2 diabetes mellitus with gangrene"
+"84511000006112",1,"Type 2 diabetes mellitus with gangrene"
+"299621000000117",1,"Gastroparesis with type 2 diabetes mellitus"
+"4758011000006112",1,"Type 2 diabetes mellitus with hyperosmolar coma"
+"84521000006116",1,"Type 2 diabetes mellitus with hypoglycaemic coma"
+"459167016",1,"Type 2 diabetes mellitus with hypoglycaemic coma"
+"928581000006111",1,"Ketoacidosis in type 2 diabetes mellitus"
+"928601000006118",1,"Ketoacidotic coma in type 2 diabetes mellitus"
+"914221000006113",1,"Type 2 diabetes mellitus with mononeuropathy"
+"84531000006118",1,"Type 2 diabetes mellitus with mononeuropathy"
+"84541000006111",1,"Type 2 diabetes mellitus with multiple complications"
+"292577016",1,"Type 2 diabetes mellitus with multiple complications"
+"914261000006119",1,"Diabetes type 2 with nephropathy"
+"84551000006113",1,"Type 2 diabetes mellitus with nephropathy"
+"84561000006110",1,"Type 2 diabetes mellitus with neurological complications"
+"914071000006115",1,"Neurologic disorder associated with type 2 diabetes mellitus"
+"459313016",1,"Type 2 diabetes mellitus with neuropathic arthropathy"
+"84571000006115",1,"Type 2 diabetes mellitus with neuropathic arthropathy"
+"84581000006117",1,"Type 2 diabetes mellitus with ophthalmic complications"
+"914051000006113",1,"Disorder of eye with type 2 diabetes mellitus"
+"84591000006119",1,"Type 2 diabetes mellitus with peripheral angiopathy"
+"459308015",1,"Type 2 diabetes mellitus with peripheral angiopathy"
+"928561000006118",1,"Persistent microalbuminuria associated with type 2 diabetes mellitus"
+"928541000006117",1,"Persistent proteinuria associated with type 2 diabetes mellitus"
+"84601000006110",1,"Type 2 diabetes mellitus with polyneuropathy"
+"914241000006118",1,"Polyneuropathy due to type 2 diabetes mellitus"
+"914031000006118",1,"Renal disorder associated with type II diabetes mellitus"
+"84611000006113",1,"Type 2 diabetes mellitus with renal complications"
+"914151000006112",1,"Retinopathy with type 2 diabetes mellitus"
+"84621000006117",1,"Type 2 diabetes mellitus with retinopathy"
+"84631000006119",1,"Type 2 diabetes mellitus with ulcer"
+"292579018",1,"Type 2 diabetes mellitus with ulcer"
+"84641000006112",1,"Type 2 diabetes mellitus without complication"
+"457329019",1,"Type 2 diabetes mellitus without complication"
+"1665721000000112",1,"Type 2 diabetic dietary review"
+"494564012",1,"Type I diabetes mellitus"
+"84651000006114",1,"Type I diabetes mellitus"
+"84661000006111",1,"Type I diabetes mellitus poorly controlled"
+"292550013",1,"Type I diabetes mellitus - poor control"
+"2288011000000114",1,"Type I diabetes mellitus in remission"
+"292551012",1,"Type I diabetes mellitus maturity onset"
+"84671000006116",1,"Type I diabetes mellitus maturity onset"
+"7287621000006117",1,NA
+"459294012",1,"Type I diabetes mellitus with arthropathy"
+"84681000006118",1,"Type I diabetes mellitus with arthropathy"
+"84691000006115",1,"Cataract due to diabetes mellitus type 1"
+"913911000006110",1,"Type I diabetes mellitus with diabetic cataract"
+"938311000006112",1,"Type I diabetes mellitus with exudative maculopathy"
+"84701000006115",1,"Type I diabetes mellitus with gangrene"
+"292543014",1,"Type I diabetes mellitus with gangrene"
+"1667941000000112",1,"Type I diabetes mellitus with gastroparesis"
+"84711000006117",1,"Type I diabetes mellitus with hypoglycaemic coma"
+"459163017",1,"Type I diabetes mellitus with hypoglycaemic coma"
+"6050061000006116",1,NA
+"928511000006116",1,"Type I diabetes mellitus with ketoacidosis"
+"928531000006110",1,"Type I diabetes mellitus with ketoacidotic coma"
+"913791000006119",1,"Type I diabetes mellitus with mononeuropathy"
+"84721000006113",1,"Mononeuropathy with type 1 diabetes mellitus"
+"913551000006116",1,"Type I diabetes mellitus with multiple complications"
+"84731000006111",1,"Multiple complications of type 1 diabetes mellitus"
+"913851000006119",1,"Type I diabetes mellitus with nephropathy"
+"84741000006118",1,"Type I diabetes mellitus with nephropathy"
+"84751000006116",1,"Type I diabetes mellitus with neurological complications"
+"913521000006113",1,"Neurological disorder with type 1 diabetes mellitus"
+"459295013",1,NA
+"84761000006119",1,"Type I diabetes mellitus with neuropathic arthropathy"
+"913491000006111",1,"Type I diabetes mellitus with ophthalmic complications"
+"84771000006114",1,"Disorder of eye with type 1 diabetes mellitus"
+"84781000006112",1,"Type I diabetes mellitus with peripheral angiopathy"
+"913941000006114",1,"Peripheral angiopathy due to type 1 diabetes mellitus"
+"928491000006110",1,"Type I diabetes mellitus with persistent microalbuminuria"
+"928471000006114",1,"Type I diabetes mellitus with persistent proteinuria"
+"84791000006110",1,"Polyneuropathy due to diabetes mellitus type I"
+"913821000006111",1,"Type I diabetes mellitus with polyneuropathy"
+"84801000006111",1,"Type I diabetes mellitus with renal complications"
+"913461000006115",1,"Type I diabetes mellitus with renal complications"
+"913671000006113",1,"Type I diabetes mellitus with retinopathy"
+"84811000006114",1,"Type I diabetes mellitus with retinopathy"
+"292538019",1,"Type I diabetes mellitus with ulcer"
+"84821000006118",1,"Type I diabetes mellitus with ulcer"
+"457325013",1,"Type I diabetes mellitus without complication"
+"84831000006115",1,"Type I diabetes mellitus without complication"
+"1658861000000113",1,"Type I diabetic dietary review"
+"84841000006113",1,"Type II diabetes mellitus"
+"493774016",1,"Type II diabetes mellitus"
+"84851000006110",1,"Type II diabetes mellitus - poor control"
+"292589019",1,"Type II diabetes mellitus - poor control"
+"2288061000000111",1,"Type II diabetes mellitus in remission"
+"84861000006112",1,"Type II diabetes mellitus with arthropathy"
+"459311019",1,"Type II diabetes mellitus with arthropathy"
+"84871000006117",1,"Cataract due to diabetes mellitus type 2"
+"914311000006114",1,"Type II diabetes mellitus with diabetic cataract"
+"938331000006118",1,"Exudative maculopathy with type 2 diabetes mellitus"
+"12489851000006117",1,NA
+"84881000006119",1,"Type II diabetes mellitus with gangrene"
+"292582011",1,"Type II diabetes mellitus with gangrene"
+"1667921000000117",1,"Type II diabetes mellitus with gastroparesis"
+"84891000006116",1,"Type II diabetes mellitus with hypoglycaemic coma"
+"459169018",1,"Hypoglycaemic coma co-occurrent and due to diabetes mellitus type II"
+"928591000006114",1,"Type II diabetes mellitus with ketoacidosis"
+"928611000006115",1,"Ketoacidotic coma in type II diabetes mellitus"
+"84901000006117",1,"Mononeuropathy with type 2 diabetes mellitus"
+"914231000006111",1,"Type II diabetes mellitus with mononeuropathy"
+"292576013",1,"Type II diabetes mellitus with multiple complications"
+"84911000006119",1,"Type II diabetes mellitus with multiple complications"
+"84921000006110",1,"Renal disorder due to type 2 diabetes mellitus"
+"914271000006114",1,"Type II diabetes mellitus with nephropathy"
+"84931000006113",1,"Neurological disorder with diabetes type 2"
+"12702411000006115",1,NA
+"914081000006117",1,"Type II diabetes mellitus with neurological complications"
+"459312014",1,"Type II diabetes mellitus with neuropathic arthropathy"
+"84941000006115",1,"Type II diabetes mellitus with neuropathic arthropathy"
+"84951000006118",1,"Disorder of eye with type 2 diabetes mellitus"
+"914061000006110",1,"Type II diabetes mellitus with ophthalmic complications"
+"12702421000006111",1,NA
+"459306016",1,"Type II diabetes mellitus with peripheral angiopathy"
+"84961000006116",1,"Type II diabetes mellitus with peripheral angiopathy"
+"928571000006113",1,"Type II diabetes mellitus with persistent microalbuminuria"
+"928551000006115",1,"Type II diabetes mellitus with persistent proteinuria"
+"84971000006111",1,"Type II diabetes mellitus with polyneuropathy"
+"914251000006116",1,"Type II diabetes mellitus with polyneuropathy"
+"84981000006114",1,"Type II diabetes mellitus with renal complications"
+"914041000006111",1,"Type II diabetes mellitus with renal complications"
+"914161000006114",1,"Type II diabetes mellitus with retinopathy"
+"84991000006112",1,"Type II diabetes mellitus with retinopathy"
+"292581016",1,"Type II diabetes mellitus with ulcer"
+"85001000006117",1,"Type II diabetes mellitus with ulcer"
+"85011000006119",1,"Type II diabetes mellitus without complication"
+"457330012",1,"Type II diabetes mellitus without complication"
+"1658901000000118",1,"Type II diabetic dietary review"
+"2586731000000110",1,"Under care of community-based diabetes specialist nurse"
+"2159956013",1,"Under care of diabetes specialist nurse"
+"2159958014",1,"Under care of diabetic foot screener"
+"2159955012",1,"Under care of diabetologist"
+"2586691000000116",1,"Under care of hospital-based diabetes specialist nurse"
+"264695015",1,"Understands diet - diabetes"
+"292565014",1,"Diabetes mellitus with multiple complications"
+"411891014",1,"Unstable diabetes"
+"2683591000006110",1,"Unstable diabetes mellitus"
+"72651000006114",1,"Unstable insulin dependent diabetes mellitus"
+"429972014",1,"Unstable insulin dependent diabetes mellitus"
+"429971019",1,"Unstable type 1 diabetes mellitus"
+"72711000006117",1,"Unstable type 1 diabetes mellitus"
+"429970018",1,"Unstable type I diabetes mellitus"
+"72721000006113",1,"Unstable type I diabetes mellitus"
